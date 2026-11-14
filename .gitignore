@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivos de datos pesados (no subir a GitHub)
+exploracion/DATO_ANONIM_119_IITRIM2026.csv
