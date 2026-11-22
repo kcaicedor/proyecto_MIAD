@@ -1,0 +1,77 @@
+﻿variable,tipo,anio,unidad,descripcion
+divipola,string,,código,Código territorial DANE de cinco dígitos
+poblacion_cabecera_2018,Int64,2018.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2019,Int64,2019.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2020,Int64,2020.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2021,Int64,2021.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2022,Int64,2022.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2023,Int64,2023.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2024,Int64,2024.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2025,Int64,2025.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2026,Int64,2026.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2027,Int64,2027.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2028,Int64,2028.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2029,Int64,2029.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2030,Int64,2030.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2031,Int64,2031.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2032,Int64,2032.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2033,Int64,2033.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2034,Int64,2034.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2035,Int64,2035.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2036,Int64,2036.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2037,Int64,2037.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2038,Int64,2038.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2039,Int64,2039.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2040,Int64,2040.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2041,Int64,2041.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_cabecera_2042,Int64,2042.0,personas,Población de cabecera municipal según serie DANE de referencia
+poblacion_rural_2018,Int64,2018.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2019,Int64,2019.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2020,Int64,2020.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2021,Int64,2021.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2022,Int64,2022.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2023,Int64,2023.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2024,Int64,2024.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2025,Int64,2025.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2026,Int64,2026.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2027,Int64,2027.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2028,Int64,2028.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2029,Int64,2029.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2030,Int64,2030.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2031,Int64,2031.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2032,Int64,2032.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2033,Int64,2033.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2034,Int64,2034.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2035,Int64,2035.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2036,Int64,2036.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2037,Int64,2037.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2038,Int64,2038.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2039,Int64,2039.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2040,Int64,2040.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2041,Int64,2041.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_rural_2042,Int64,2042.0,personas,Población de centros poblados y rural disperso según serie DANE de referencia
+poblacion_total_2018,Int64,2018.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2019,Int64,2019.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2020,Int64,2020.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2021,Int64,2021.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2022,Int64,2022.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2023,Int64,2023.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2024,Int64,2024.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2025,Int64,2025.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2026,Int64,2026.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2027,Int64,2027.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2028,Int64,2028.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2029,Int64,2029.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2030,Int64,2030.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2031,Int64,2031.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2032,Int64,2032.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2033,Int64,2033.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2034,Int64,2034.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2035,Int64,2035.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2036,Int64,2036.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2037,Int64,2037.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2038,Int64,2038.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2039,Int64,2039.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2040,Int64,2040.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2041,Int64,2041.0,personas,Población total del territorio según serie DANE de referencia
+poblacion_total_2042,Int64,2042.0,personas,Población total del territorio según serie DANE de referencia

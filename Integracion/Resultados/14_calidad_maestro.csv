@@ -1,0 +1,10 @@
+﻿variable,tipo,n_nulos,pct_nulos
+divipola,string,0,0.0
+cod_depto,string,0,0.0
+cod_muni,string,0,0.0
+departamento,object,0,0.0
+municipio,object,0,0.0
+tipo_localizacion,object,0,0.0
+longitud,float64,0,0.0
+latitud,float64,0,0.0
+exclusion_propuesta_guia4,float64,1122,100.0

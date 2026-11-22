@@ -1,0 +1,1128 @@
+﻿fuente,divipola,situacion,departamento,municipio
+igac,05001,solo_maestro,ANTIOQUIA,MEDELLÍN
+igac,05475,solo_maestro,ANTIOQUIA,MURINDÓ
+igac,08001,solo_maestro,ATLÁNTICO,BARRANQUILLA
+igac,11001,solo_maestro,"BOGOTÁ, D.C.","BOGOTÁ, D.C."
+igac,13001,solo_maestro,BOLÍVAR,CARTAGENA DE INDIAS
+igac,25754,solo_maestro,CUNDINAMARCA,SOACHA
+igac,27050,solo_maestro,CHOCÓ,ATRATO
+igac,27150,solo_maestro,CHOCÓ,CARMEN DEL DARIÉN
+igac,27425,solo_maestro,CHOCÓ,MEDIO ATRATO
+igac,27493,solo_maestro,CHOCÓ,NUEVO BELÉN DE BAJIRÁ
+igac,27600,solo_maestro,CHOCÓ,RÍO QUITO
+igac,41319,solo_maestro,HUILA,GUADALUPE
+igac,50001,solo_maestro,META,VILLAVICENCIO
+igac,52001,solo_maestro,NARIÑO,PASTO
+igac,63001,solo_maestro,QUINDÍO,ARMENIA
+igac,66001,solo_maestro,RISARALDA,PEREIRA
+igac,73001,solo_maestro,TOLIMA,IBAGUÉ
+igac,76001,solo_maestro,VALLE DEL CAUCA,SANTIAGO DE CALI
+igac,88001,solo_maestro,"ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",SAN ANDRÉS
+igac,91263,solo_maestro,AMAZONAS,EL ENCANTO
+igac,91405,solo_maestro,AMAZONAS,LA CHORRERA
+igac,91407,solo_maestro,AMAZONAS,LA PEDRERA
+igac,91430,solo_maestro,AMAZONAS,LA VICTORIA
+igac,91460,solo_maestro,AMAZONAS,MIRITÍ - PARANÁ
+igac,91530,solo_maestro,AMAZONAS,PUERTO ALEGRÍA
+igac,91536,solo_maestro,AMAZONAS,PUERTO ARICA
+igac,91669,solo_maestro,AMAZONAS,PUERTO SANTANDER
+igac,91798,solo_maestro,AMAZONAS,TARAPACÁ
+igac,94883,solo_maestro,GUAINÍA,SAN FELIPE
+igac,94884,solo_maestro,GUAINÍA,PUERTO COLOMBIA
+igac,94885,solo_maestro,GUAINÍA,LA GUADALUPE
+igac,94886,solo_maestro,GUAINÍA,CACAHUAL
+igac,94887,solo_maestro,GUAINÍA,PANA PANA
+igac,94888,solo_maestro,GUAINÍA,MORICHAL
+igac,97511,solo_maestro,VAUPÉS,PACOA
+igac,97666,solo_maestro,VAUPÉS,TARAIRA
+igac,97777,solo_maestro,VAUPÉS,PAPUNAHUA
+igac,97889,solo_maestro,VAUPÉS,YAVARATÉ
+hogares,94663,solo_fuente,,
+deficit,27493,solo_maestro,CHOCÓ,NUEVO BELÉN DE BAJIRÁ
+deficit,94663,solo_fuente,,
+elic,05475,solo_maestro,ANTIOQUIA,MURINDÓ
+elic,13440,solo_maestro,BOLÍVAR,MARGARITA
+elic,13549,solo_maestro,BOLÍVAR,PINILLOS
+elic,13655,solo_maestro,BOLÍVAR,SAN JACINTO DEL CAUCA
+elic,18460,solo_maestro,CAQUETÁ,MILÁN
+elic,19533,solo_maestro,CAUCA,PIAMONTE
+elic,19785,solo_maestro,CAUCA,SUCRE
+elic,25120,solo_maestro,CUNDINAMARCA,CABRERA
+elic,27050,solo_maestro,CHOCÓ,ATRATO
+elic,27250,solo_maestro,CHOCÓ,EL LITORAL DEL SAN JUAN
+elic,27580,solo_maestro,CHOCÓ,RÍO IRÓ
+elic,27600,solo_maestro,CHOCÓ,RÍO QUITO
+elic,27745,solo_maestro,CHOCÓ,SIPÍ
+elic,50686,solo_maestro,META,SAN JUANITO
+elic,52435,solo_maestro,NARIÑO,MALLAMA
+elic,52621,solo_maestro,NARIÑO,ROBERTO PAYÁN
+elic,54109,solo_maestro,NORTE DE SANTANDER,BUCARASICA
+elic,54347,solo_maestro,NORTE DE SANTANDER,HERRÁN
+elic,54670,solo_maestro,NORTE DE SANTANDER,SAN CALIXTO
+elic,68425,solo_maestro,SANTANDER,MACARAVITA
+elic,70204,solo_maestro,SUCRE,COLOSÓ
+elic,73622,solo_maestro,TOLIMA,RONCESVALLES
+elic,85136,solo_maestro,CASANARE,LA SALINA
+elic,91263,solo_maestro,AMAZONAS,EL ENCANTO
+elic,91405,solo_maestro,AMAZONAS,LA CHORRERA
+elic,91407,solo_maestro,AMAZONAS,LA PEDRERA
+elic,91430,solo_maestro,AMAZONAS,LA VICTORIA
+elic,91460,solo_maestro,AMAZONAS,MIRITÍ - PARANÁ
+elic,91530,solo_maestro,AMAZONAS,PUERTO ALEGRÍA
+elic,91536,solo_maestro,AMAZONAS,PUERTO ARICA
+elic,91669,solo_maestro,AMAZONAS,PUERTO SANTANDER
+elic,91798,solo_maestro,AMAZONAS,TARAPACÁ
+elic,94883,solo_maestro,GUAINÍA,SAN FELIPE
+elic,94884,solo_maestro,GUAINÍA,PUERTO COLOMBIA
+elic,94885,solo_maestro,GUAINÍA,LA GUADALUPE
+elic,94886,solo_maestro,GUAINÍA,CACAHUAL
+elic,94887,solo_maestro,GUAINÍA,PANA PANA
+elic,94888,solo_maestro,GUAINÍA,MORICHAL
+elic,97511,solo_maestro,VAUPÉS,PACOA
+elic,97666,solo_maestro,VAUPÉS,TARAIRA
+elic,97777,solo_maestro,VAUPÉS,PAPUNAHUA
+elic,97889,solo_maestro,VAUPÉS,YAVARATÉ
+seguridad,27493,solo_maestro,CHOCÓ,NUEVO BELÉN DE BAJIRÁ
+seguridad,91430,solo_maestro,AMAZONAS,LA VICTORIA
+seguridad,91536,solo_maestro,AMAZONAS,PUERTO ARICA
+seguridad,94343,solo_maestro,GUAINÍA,BARRANCOMINAS
+seguridad,94883,solo_maestro,GUAINÍA,SAN FELIPE
+seguridad,94885,solo_maestro,GUAINÍA,LA GUADALUPE
+seguridad,94886,solo_maestro,GUAINÍA,CACAHUAL
+seguridad,94887,solo_maestro,GUAINÍA,PANA PANA
+seguridad,94888,solo_maestro,GUAINÍA,MORICHAL
+seguridad,97777,solo_maestro,VAUPÉS,PAPUNAHUA
+seguridad,97889,solo_maestro,VAUPÉS,YAVARATÉ
+seguridad,52000,solo_fuente,,
+ceed,05002,solo_maestro,ANTIOQUIA,ABEJORRAL
+ceed,05004,solo_maestro,ANTIOQUIA,ABRIAQUÍ
+ceed,05021,solo_maestro,ANTIOQUIA,ALEJANDRÍA
+ceed,05030,solo_maestro,ANTIOQUIA,AMAGÁ
+ceed,05031,solo_maestro,ANTIOQUIA,AMALFI
+ceed,05034,solo_maestro,ANTIOQUIA,ANDES
+ceed,05036,solo_maestro,ANTIOQUIA,ANGELÓPOLIS
+ceed,05038,solo_maestro,ANTIOQUIA,ANGOSTURA
+ceed,05040,solo_maestro,ANTIOQUIA,ANORÍ
+ceed,05042,solo_maestro,ANTIOQUIA,SANTA FÉ DE ANTIOQUIA
+ceed,05044,solo_maestro,ANTIOQUIA,ANZÁ
+ceed,05045,solo_maestro,ANTIOQUIA,APARTADÓ
+ceed,05051,solo_maestro,ANTIOQUIA,ARBOLETES
+ceed,05055,solo_maestro,ANTIOQUIA,ARGELIA
+ceed,05059,solo_maestro,ANTIOQUIA,ARMENIA
+ceed,05086,solo_maestro,ANTIOQUIA,BELMIRA
+ceed,05091,solo_maestro,ANTIOQUIA,BETANIA
+ceed,05093,solo_maestro,ANTIOQUIA,BETULIA
+ceed,05101,solo_maestro,ANTIOQUIA,CIUDAD BOLÍVAR
+ceed,05107,solo_maestro,ANTIOQUIA,BRICEÑO
+ceed,05113,solo_maestro,ANTIOQUIA,BURITICÁ
+ceed,05120,solo_maestro,ANTIOQUIA,CÁCERES
+ceed,05125,solo_maestro,ANTIOQUIA,CAICEDO
+ceed,05134,solo_maestro,ANTIOQUIA,CAMPAMENTO
+ceed,05138,solo_maestro,ANTIOQUIA,CAÑASGORDAS
+ceed,05142,solo_maestro,ANTIOQUIA,CARACOLÍ
+ceed,05145,solo_maestro,ANTIOQUIA,CARAMANTA
+ceed,05147,solo_maestro,ANTIOQUIA,CAREPA
+ceed,05150,solo_maestro,ANTIOQUIA,CAROLINA
+ceed,05154,solo_maestro,ANTIOQUIA,CAUCASIA
+ceed,05172,solo_maestro,ANTIOQUIA,CHIGORODÓ
+ceed,05190,solo_maestro,ANTIOQUIA,CISNEROS
+ceed,05197,solo_maestro,ANTIOQUIA,COCORNÁ
+ceed,05206,solo_maestro,ANTIOQUIA,CONCEPCIÓN
+ceed,05209,solo_maestro,ANTIOQUIA,CONCORDIA
+ceed,05234,solo_maestro,ANTIOQUIA,DABEIBA
+ceed,05237,solo_maestro,ANTIOQUIA,DONMATÍAS
+ceed,05240,solo_maestro,ANTIOQUIA,EBÉJICO
+ceed,05250,solo_maestro,ANTIOQUIA,EL BAGRE
+ceed,05264,solo_maestro,ANTIOQUIA,ENTRERRÍOS
+ceed,05282,solo_maestro,ANTIOQUIA,FREDONIA
+ceed,05284,solo_maestro,ANTIOQUIA,FRONTINO
+ceed,05306,solo_maestro,ANTIOQUIA,GIRALDO
+ceed,05310,solo_maestro,ANTIOQUIA,GÓMEZ PLATA
+ceed,05313,solo_maestro,ANTIOQUIA,GRANADA
+ceed,05315,solo_maestro,ANTIOQUIA,GUADALUPE
+ceed,05321,solo_maestro,ANTIOQUIA,GUATAPÉ
+ceed,05347,solo_maestro,ANTIOQUIA,HELICONIA
+ceed,05353,solo_maestro,ANTIOQUIA,HISPANIA
+ceed,05361,solo_maestro,ANTIOQUIA,ITUANGO
+ceed,05364,solo_maestro,ANTIOQUIA,JARDÍN
+ceed,05368,solo_maestro,ANTIOQUIA,JERICÓ
+ceed,05390,solo_maestro,ANTIOQUIA,LA PINTADA
+ceed,05411,solo_maestro,ANTIOQUIA,LIBORINA
+ceed,05425,solo_maestro,ANTIOQUIA,MACEO
+ceed,05467,solo_maestro,ANTIOQUIA,MONTEBELLO
+ceed,05475,solo_maestro,ANTIOQUIA,MURINDÓ
+ceed,05480,solo_maestro,ANTIOQUIA,MUTATÁ
+ceed,05483,solo_maestro,ANTIOQUIA,NARIÑO
+ceed,05490,solo_maestro,ANTIOQUIA,NECOCLÍ
+ceed,05495,solo_maestro,ANTIOQUIA,NECHÍ
+ceed,05501,solo_maestro,ANTIOQUIA,OLAYA
+ceed,05541,solo_maestro,ANTIOQUIA,PEÑOL
+ceed,05543,solo_maestro,ANTIOQUIA,PEQUE
+ceed,05576,solo_maestro,ANTIOQUIA,PUEBLORRICO
+ceed,05579,solo_maestro,ANTIOQUIA,PUERTO BERRÍO
+ceed,05585,solo_maestro,ANTIOQUIA,PUERTO NARE
+ceed,05591,solo_maestro,ANTIOQUIA,PUERTO TRIUNFO
+ceed,05604,solo_maestro,ANTIOQUIA,REMEDIOS
+ceed,05628,solo_maestro,ANTIOQUIA,SABANALARGA
+ceed,05642,solo_maestro,ANTIOQUIA,SALGAR
+ceed,05647,solo_maestro,ANTIOQUIA,SAN ANDRÉS DE CUERQUÍA
+ceed,05649,solo_maestro,ANTIOQUIA,SAN CARLOS
+ceed,05652,solo_maestro,ANTIOQUIA,SAN FRANCISCO
+ceed,05656,solo_maestro,ANTIOQUIA,SAN JERÓNIMO
+ceed,05658,solo_maestro,ANTIOQUIA,SAN JOSÉ DE LA MONTAÑA
+ceed,05659,solo_maestro,ANTIOQUIA,SAN JUAN DE URABÁ
+ceed,05660,solo_maestro,ANTIOQUIA,SAN LUIS
+ceed,05664,solo_maestro,ANTIOQUIA,SAN PEDRO DE LOS MILAGROS
+ceed,05665,solo_maestro,ANTIOQUIA,SAN PEDRO DE URABÁ
+ceed,05667,solo_maestro,ANTIOQUIA,SAN RAFAEL
+ceed,05670,solo_maestro,ANTIOQUIA,SAN ROQUE
+ceed,05674,solo_maestro,ANTIOQUIA,SAN VICENTE FERRER
+ceed,05679,solo_maestro,ANTIOQUIA,SANTA BÁRBARA
+ceed,05686,solo_maestro,ANTIOQUIA,SANTA ROSA DE OSOS
+ceed,05690,solo_maestro,ANTIOQUIA,SANTO DOMINGO
+ceed,05697,solo_maestro,ANTIOQUIA,EL SANTUARIO
+ceed,05736,solo_maestro,ANTIOQUIA,SEGOVIA
+ceed,05756,solo_maestro,ANTIOQUIA,SONSÓN
+ceed,05761,solo_maestro,ANTIOQUIA,SOPETRÁN
+ceed,05789,solo_maestro,ANTIOQUIA,TÁMESIS
+ceed,05790,solo_maestro,ANTIOQUIA,TARAZÁ
+ceed,05792,solo_maestro,ANTIOQUIA,TARSO
+ceed,05809,solo_maestro,ANTIOQUIA,TITIRIBÍ
+ceed,05819,solo_maestro,ANTIOQUIA,TOLEDO
+ceed,05837,solo_maestro,ANTIOQUIA,TURBO
+ceed,05842,solo_maestro,ANTIOQUIA,URAMITA
+ceed,05847,solo_maestro,ANTIOQUIA,URRAO
+ceed,05854,solo_maestro,ANTIOQUIA,VALDIVIA
+ceed,05856,solo_maestro,ANTIOQUIA,VALPARAÍSO
+ceed,05858,solo_maestro,ANTIOQUIA,VEGACHÍ
+ceed,05861,solo_maestro,ANTIOQUIA,VENECIA
+ceed,05873,solo_maestro,ANTIOQUIA,VIGÍA DEL FUERTE
+ceed,05885,solo_maestro,ANTIOQUIA,YALÍ
+ceed,05887,solo_maestro,ANTIOQUIA,YARUMAL
+ceed,05890,solo_maestro,ANTIOQUIA,YOLOMBÓ
+ceed,05893,solo_maestro,ANTIOQUIA,YONDÓ
+ceed,05895,solo_maestro,ANTIOQUIA,ZARAGOZA
+ceed,08078,solo_maestro,ATLÁNTICO,BARANOA
+ceed,08137,solo_maestro,ATLÁNTICO,CAMPO DE LA CRUZ
+ceed,08141,solo_maestro,ATLÁNTICO,CANDELARIA
+ceed,08372,solo_maestro,ATLÁNTICO,JUAN DE ACOSTA
+ceed,08421,solo_maestro,ATLÁNTICO,LURUACO
+ceed,08436,solo_maestro,ATLÁNTICO,MANATÍ
+ceed,08549,solo_maestro,ATLÁNTICO,PIOJÓ
+ceed,08558,solo_maestro,ATLÁNTICO,POLONUEVO
+ceed,08606,solo_maestro,ATLÁNTICO,REPELÓN
+ceed,08675,solo_maestro,ATLÁNTICO,SANTA LUCÍA
+ceed,08770,solo_maestro,ATLÁNTICO,SUAN
+ceed,08832,solo_maestro,ATLÁNTICO,TUBARÁ
+ceed,08849,solo_maestro,ATLÁNTICO,USIACURÍ
+ceed,13006,solo_maestro,BOLÍVAR,ACHÍ
+ceed,13030,solo_maestro,BOLÍVAR,ALTOS DEL ROSARIO
+ceed,13042,solo_maestro,BOLÍVAR,ARENAL
+ceed,13052,solo_maestro,BOLÍVAR,ARJONA
+ceed,13062,solo_maestro,BOLÍVAR,ARROYOHONDO
+ceed,13074,solo_maestro,BOLÍVAR,BARRANCO DE LOBA
+ceed,13140,solo_maestro,BOLÍVAR,CALAMAR
+ceed,13160,solo_maestro,BOLÍVAR,CANTAGALLO
+ceed,13188,solo_maestro,BOLÍVAR,CICUCO
+ceed,13212,solo_maestro,BOLÍVAR,CÓRDOBA
+ceed,13244,solo_maestro,BOLÍVAR,EL CARMEN DE BOLÍVAR
+ceed,13248,solo_maestro,BOLÍVAR,EL GUAMO
+ceed,13268,solo_maestro,BOLÍVAR,EL PEÑÓN
+ceed,13300,solo_maestro,BOLÍVAR,HATILLO DE LOBA
+ceed,13430,solo_maestro,BOLÍVAR,MAGANGUÉ
+ceed,13433,solo_maestro,BOLÍVAR,MAHATES
+ceed,13440,solo_maestro,BOLÍVAR,MARGARITA
+ceed,13442,solo_maestro,BOLÍVAR,MARÍA LA BAJA
+ceed,13458,solo_maestro,BOLÍVAR,MONTECRISTO
+ceed,13468,solo_maestro,BOLÍVAR,SANTA CRUZ DE MOMPOX
+ceed,13473,solo_maestro,BOLÍVAR,MORALES
+ceed,13490,solo_maestro,BOLÍVAR,NOROSÍ
+ceed,13549,solo_maestro,BOLÍVAR,PINILLOS
+ceed,13580,solo_maestro,BOLÍVAR,REGIDOR
+ceed,13600,solo_maestro,BOLÍVAR,RÍO VIEJO
+ceed,13620,solo_maestro,BOLÍVAR,SAN CRISTÓBAL
+ceed,13647,solo_maestro,BOLÍVAR,SAN ESTANISLAO
+ceed,13650,solo_maestro,BOLÍVAR,SAN FERNANDO
+ceed,13654,solo_maestro,BOLÍVAR,SAN JACINTO
+ceed,13655,solo_maestro,BOLÍVAR,SAN JACINTO DEL CAUCA
+ceed,13657,solo_maestro,BOLÍVAR,SAN JUAN NEPOMUCENO
+ceed,13667,solo_maestro,BOLÍVAR,SAN MARTÍN DE LOBA
+ceed,13670,solo_maestro,BOLÍVAR,SAN PABLO
+ceed,13673,solo_maestro,BOLÍVAR,SANTA CATALINA
+ceed,13683,solo_maestro,BOLÍVAR,SANTA ROSA
+ceed,13688,solo_maestro,BOLÍVAR,SANTA ROSA DEL SUR
+ceed,13744,solo_maestro,BOLÍVAR,SIMITÍ
+ceed,13760,solo_maestro,BOLÍVAR,SOPLAVIENTO
+ceed,13780,solo_maestro,BOLÍVAR,TALAIGUA NUEVO
+ceed,13810,solo_maestro,BOLÍVAR,TIQUISIO
+ceed,13838,solo_maestro,BOLÍVAR,TURBANA
+ceed,13873,solo_maestro,BOLÍVAR,VILLANUEVA
+ceed,13894,solo_maestro,BOLÍVAR,ZAMBRANO
+ceed,15022,solo_maestro,BOYACÁ,ALMEIDA
+ceed,15047,solo_maestro,BOYACÁ,AQUITANIA
+ceed,15051,solo_maestro,BOYACÁ,ARCABUCO
+ceed,15087,solo_maestro,BOYACÁ,BELÉN
+ceed,15090,solo_maestro,BOYACÁ,BERBEO
+ceed,15092,solo_maestro,BOYACÁ,BETÉITIVA
+ceed,15097,solo_maestro,BOYACÁ,BOAVITA
+ceed,15104,solo_maestro,BOYACÁ,BOYACÁ
+ceed,15106,solo_maestro,BOYACÁ,BRICEÑO
+ceed,15109,solo_maestro,BOYACÁ,BUENAVISTA
+ceed,15114,solo_maestro,BOYACÁ,BUSBANZÁ
+ceed,15131,solo_maestro,BOYACÁ,CALDAS
+ceed,15135,solo_maestro,BOYACÁ,CAMPOHERMOSO
+ceed,15162,solo_maestro,BOYACÁ,CERINZA
+ceed,15172,solo_maestro,BOYACÁ,CHINAVITA
+ceed,15176,solo_maestro,BOYACÁ,CHIQUINQUIRÁ
+ceed,15180,solo_maestro,BOYACÁ,CHISCAS
+ceed,15183,solo_maestro,BOYACÁ,CHITA
+ceed,15185,solo_maestro,BOYACÁ,CHITARAQUE
+ceed,15187,solo_maestro,BOYACÁ,CHIVATÁ
+ceed,15189,solo_maestro,BOYACÁ,CIÉNEGA
+ceed,15204,solo_maestro,BOYACÁ,CÓMBITA
+ceed,15212,solo_maestro,BOYACÁ,COPER
+ceed,15215,solo_maestro,BOYACÁ,CORRALES
+ceed,15218,solo_maestro,BOYACÁ,COVARACHÍA
+ceed,15223,solo_maestro,BOYACÁ,CUBARÁ
+ceed,15224,solo_maestro,BOYACÁ,CUCAITA
+ceed,15226,solo_maestro,BOYACÁ,CUÍTIVA
+ceed,15232,solo_maestro,BOYACÁ,CHÍQUIZA
+ceed,15236,solo_maestro,BOYACÁ,CHIVOR
+ceed,15244,solo_maestro,BOYACÁ,EL COCUY
+ceed,15248,solo_maestro,BOYACÁ,EL ESPINO
+ceed,15272,solo_maestro,BOYACÁ,FIRAVITOBA
+ceed,15276,solo_maestro,BOYACÁ,FLORESTA
+ceed,15293,solo_maestro,BOYACÁ,GACHANTIVÁ
+ceed,15296,solo_maestro,BOYACÁ,GÁMEZA
+ceed,15299,solo_maestro,BOYACÁ,GARAGOA
+ceed,15317,solo_maestro,BOYACÁ,GUACAMAYAS
+ceed,15322,solo_maestro,BOYACÁ,GUATEQUE
+ceed,15325,solo_maestro,BOYACÁ,GUAYATÁ
+ceed,15332,solo_maestro,BOYACÁ,GÜICÁN DE LA SIERRA
+ceed,15362,solo_maestro,BOYACÁ,IZA
+ceed,15367,solo_maestro,BOYACÁ,JENESANO
+ceed,15368,solo_maestro,BOYACÁ,JERICÓ
+ceed,15377,solo_maestro,BOYACÁ,LABRANZAGRANDE
+ceed,15380,solo_maestro,BOYACÁ,LA CAPILLA
+ceed,15401,solo_maestro,BOYACÁ,LA VICTORIA
+ceed,15403,solo_maestro,BOYACÁ,LA UVITA
+ceed,15407,solo_maestro,BOYACÁ,VILLA DE LEYVA
+ceed,15425,solo_maestro,BOYACÁ,MACANAL
+ceed,15442,solo_maestro,BOYACÁ,MARIPÍ
+ceed,15455,solo_maestro,BOYACÁ,MIRAFLORES
+ceed,15464,solo_maestro,BOYACÁ,MONGUA
+ceed,15466,solo_maestro,BOYACÁ,MONGUÍ
+ceed,15469,solo_maestro,BOYACÁ,MONIQUIRÁ
+ceed,15476,solo_maestro,BOYACÁ,MOTAVITA
+ceed,15480,solo_maestro,BOYACÁ,MUZO
+ceed,15491,solo_maestro,BOYACÁ,NOBSA
+ceed,15494,solo_maestro,BOYACÁ,NUEVO COLÓN
+ceed,15500,solo_maestro,BOYACÁ,OICATÁ
+ceed,15507,solo_maestro,BOYACÁ,OTANCHE
+ceed,15511,solo_maestro,BOYACÁ,PACHAVITA
+ceed,15514,solo_maestro,BOYACÁ,PÁEZ
+ceed,15518,solo_maestro,BOYACÁ,PAJARITO
+ceed,15522,solo_maestro,BOYACÁ,PANQUEBA
+ceed,15531,solo_maestro,BOYACÁ,PAUNA
+ceed,15533,solo_maestro,BOYACÁ,PAYA
+ceed,15537,solo_maestro,BOYACÁ,PAZ DE RÍO
+ceed,15542,solo_maestro,BOYACÁ,PESCA
+ceed,15550,solo_maestro,BOYACÁ,PISBA
+ceed,15572,solo_maestro,BOYACÁ,PUERTO BOYACÁ
+ceed,15580,solo_maestro,BOYACÁ,QUÍPAMA
+ceed,15599,solo_maestro,BOYACÁ,RAMIRIQUÍ
+ceed,15600,solo_maestro,BOYACÁ,RÁQUIRA
+ceed,15621,solo_maestro,BOYACÁ,RONDÓN
+ceed,15632,solo_maestro,BOYACÁ,SABOYÁ
+ceed,15638,solo_maestro,BOYACÁ,SÁCHICA
+ceed,15646,solo_maestro,BOYACÁ,SAMACÁ
+ceed,15660,solo_maestro,BOYACÁ,SAN EDUARDO
+ceed,15664,solo_maestro,BOYACÁ,SAN JOSÉ DE PARE
+ceed,15667,solo_maestro,BOYACÁ,SAN LUIS DE GACENO
+ceed,15673,solo_maestro,BOYACÁ,SAN MATEO
+ceed,15676,solo_maestro,BOYACÁ,SAN MIGUEL DE SEMA
+ceed,15681,solo_maestro,BOYACÁ,SAN PABLO DE BORBUR
+ceed,15686,solo_maestro,BOYACÁ,SANTANA
+ceed,15690,solo_maestro,BOYACÁ,SANTA MARÍA
+ceed,15693,solo_maestro,BOYACÁ,SANTA ROSA DE VITERBO
+ceed,15696,solo_maestro,BOYACÁ,SANTA SOFÍA
+ceed,15720,solo_maestro,BOYACÁ,SATIVANORTE
+ceed,15723,solo_maestro,BOYACÁ,SATIVASUR
+ceed,15740,solo_maestro,BOYACÁ,SIACHOQUE
+ceed,15753,solo_maestro,BOYACÁ,SOATÁ
+ceed,15755,solo_maestro,BOYACÁ,SOCOTÁ
+ceed,15757,solo_maestro,BOYACÁ,SOCHA
+ceed,15761,solo_maestro,BOYACÁ,SOMONDOCO
+ceed,15762,solo_maestro,BOYACÁ,SORA
+ceed,15763,solo_maestro,BOYACÁ,SOTAQUIRÁ
+ceed,15764,solo_maestro,BOYACÁ,SORACÁ
+ceed,15774,solo_maestro,BOYACÁ,SUSACÓN
+ceed,15776,solo_maestro,BOYACÁ,SUTAMARCHÁN
+ceed,15778,solo_maestro,BOYACÁ,SUTATENZA
+ceed,15790,solo_maestro,BOYACÁ,TASCO
+ceed,15798,solo_maestro,BOYACÁ,TENZA
+ceed,15804,solo_maestro,BOYACÁ,TIBANÁ
+ceed,15806,solo_maestro,BOYACÁ,TIBASOSA
+ceed,15808,solo_maestro,BOYACÁ,TINJACÁ
+ceed,15810,solo_maestro,BOYACÁ,TIPACOQUE
+ceed,15814,solo_maestro,BOYACÁ,TOCA
+ceed,15816,solo_maestro,BOYACÁ,TOGÜÍ
+ceed,15820,solo_maestro,BOYACÁ,TÓPAGA
+ceed,15822,solo_maestro,BOYACÁ,TOTA
+ceed,15832,solo_maestro,BOYACÁ,TUNUNGUÁ
+ceed,15835,solo_maestro,BOYACÁ,TURMEQUÉ
+ceed,15837,solo_maestro,BOYACÁ,TUTA
+ceed,15839,solo_maestro,BOYACÁ,TUTAZÁ
+ceed,15842,solo_maestro,BOYACÁ,ÚMBITA
+ceed,15861,solo_maestro,BOYACÁ,VENTAQUEMADA
+ceed,15879,solo_maestro,BOYACÁ,VIRACACHÁ
+ceed,15897,solo_maestro,BOYACÁ,ZETAQUIRA
+ceed,17013,solo_maestro,CALDAS,AGUADAS
+ceed,17042,solo_maestro,CALDAS,ANSERMA
+ceed,17050,solo_maestro,CALDAS,ARANZAZU
+ceed,17088,solo_maestro,CALDAS,BELALCÁZAR
+ceed,17174,solo_maestro,CALDAS,CHINCHINÁ
+ceed,17272,solo_maestro,CALDAS,FILADELFIA
+ceed,17380,solo_maestro,CALDAS,LA DORADA
+ceed,17388,solo_maestro,CALDAS,LA MERCED
+ceed,17433,solo_maestro,CALDAS,MANZANARES
+ceed,17442,solo_maestro,CALDAS,MARMATO
+ceed,17444,solo_maestro,CALDAS,MARQUETALIA
+ceed,17446,solo_maestro,CALDAS,MARULANDA
+ceed,17486,solo_maestro,CALDAS,NEIRA
+ceed,17495,solo_maestro,CALDAS,NORCASIA
+ceed,17513,solo_maestro,CALDAS,PÁCORA
+ceed,17524,solo_maestro,CALDAS,PALESTINA
+ceed,17541,solo_maestro,CALDAS,PENSILVANIA
+ceed,17614,solo_maestro,CALDAS,RIOSUCIO
+ceed,17616,solo_maestro,CALDAS,RISARALDA
+ceed,17653,solo_maestro,CALDAS,SALAMINA
+ceed,17662,solo_maestro,CALDAS,SAMANÁ
+ceed,17665,solo_maestro,CALDAS,SAN JOSÉ
+ceed,17777,solo_maestro,CALDAS,SUPÍA
+ceed,17867,solo_maestro,CALDAS,VICTORIA
+ceed,17877,solo_maestro,CALDAS,VITERBO
+ceed,18029,solo_maestro,CAQUETÁ,ALBANIA
+ceed,18094,solo_maestro,CAQUETÁ,BELÉN DE LOS ANDAQUÍES
+ceed,18150,solo_maestro,CAQUETÁ,CARTAGENA DEL CHAIRÁ
+ceed,18205,solo_maestro,CAQUETÁ,CURILLO
+ceed,18247,solo_maestro,CAQUETÁ,EL DONCELLO
+ceed,18256,solo_maestro,CAQUETÁ,EL PAUJÍL
+ceed,18410,solo_maestro,CAQUETÁ,LA MONTAÑITA
+ceed,18460,solo_maestro,CAQUETÁ,MILÁN
+ceed,18479,solo_maestro,CAQUETÁ,MORELIA
+ceed,18592,solo_maestro,CAQUETÁ,PUERTO RICO
+ceed,18610,solo_maestro,CAQUETÁ,SAN JOSÉ DEL FRAGUA
+ceed,18753,solo_maestro,CAQUETÁ,SAN VICENTE DEL CAGUÁN
+ceed,18756,solo_maestro,CAQUETÁ,SOLANO
+ceed,18785,solo_maestro,CAQUETÁ,SOLITA
+ceed,18860,solo_maestro,CAQUETÁ,VALPARAÍSO
+ceed,19022,solo_maestro,CAUCA,ALMAGUER
+ceed,19050,solo_maestro,CAUCA,ARGELIA
+ceed,19075,solo_maestro,CAUCA,BALBOA
+ceed,19100,solo_maestro,CAUCA,BOLÍVAR
+ceed,19110,solo_maestro,CAUCA,BUENOS AIRES
+ceed,19130,solo_maestro,CAUCA,CAJIBÍO
+ceed,19137,solo_maestro,CAUCA,CALDONO
+ceed,19142,solo_maestro,CAUCA,CALOTO
+ceed,19212,solo_maestro,CAUCA,CORINTO
+ceed,19256,solo_maestro,CAUCA,EL TAMBO
+ceed,19290,solo_maestro,CAUCA,FLORENCIA
+ceed,19300,solo_maestro,CAUCA,GUACHENÉ
+ceed,19318,solo_maestro,CAUCA,GUAPI
+ceed,19355,solo_maestro,CAUCA,INZÁ
+ceed,19364,solo_maestro,CAUCA,JAMBALÓ
+ceed,19392,solo_maestro,CAUCA,LA SIERRA
+ceed,19397,solo_maestro,CAUCA,LA VEGA
+ceed,19418,solo_maestro,CAUCA,LÓPEZ DE MICAY
+ceed,19450,solo_maestro,CAUCA,MERCADERES
+ceed,19455,solo_maestro,CAUCA,MIRANDA
+ceed,19473,solo_maestro,CAUCA,MORALES
+ceed,19513,solo_maestro,CAUCA,PADILLA
+ceed,19517,solo_maestro,CAUCA,PÁEZ
+ceed,19532,solo_maestro,CAUCA,PATÍA
+ceed,19533,solo_maestro,CAUCA,PIAMONTE
+ceed,19548,solo_maestro,CAUCA,PIENDAMÓ - TUNÍA
+ceed,19585,solo_maestro,CAUCA,PURACÉ
+ceed,19622,solo_maestro,CAUCA,ROSAS
+ceed,19693,solo_maestro,CAUCA,SAN SEBASTIÁN
+ceed,19698,solo_maestro,CAUCA,SANTANDER DE QUILICHAO
+ceed,19701,solo_maestro,CAUCA,SANTA ROSA
+ceed,19743,solo_maestro,CAUCA,SILVIA
+ceed,19760,solo_maestro,CAUCA,SOTARÁ
+ceed,19780,solo_maestro,CAUCA,SUÁREZ
+ceed,19785,solo_maestro,CAUCA,SUCRE
+ceed,19807,solo_maestro,CAUCA,TIMBÍO
+ceed,19809,solo_maestro,CAUCA,TIMBIQUÍ
+ceed,19821,solo_maestro,CAUCA,TORIBÍO
+ceed,19824,solo_maestro,CAUCA,TOTORÓ
+ceed,19845,solo_maestro,CAUCA,VILLA RICA
+ceed,20011,solo_maestro,CESAR,AGUACHICA
+ceed,20013,solo_maestro,CESAR,AGUSTÍN CODAZZI
+ceed,20032,solo_maestro,CESAR,ASTREA
+ceed,20045,solo_maestro,CESAR,BECERRIL
+ceed,20060,solo_maestro,CESAR,BOSCONIA
+ceed,20175,solo_maestro,CESAR,CHIMICHAGUA
+ceed,20178,solo_maestro,CESAR,CHIRIGUANÁ
+ceed,20228,solo_maestro,CESAR,CURUMANÍ
+ceed,20238,solo_maestro,CESAR,EL COPEY
+ceed,20250,solo_maestro,CESAR,EL PASO
+ceed,20295,solo_maestro,CESAR,GAMARRA
+ceed,20310,solo_maestro,CESAR,GONZÁLEZ
+ceed,20383,solo_maestro,CESAR,LA GLORIA
+ceed,20400,solo_maestro,CESAR,LA JAGUA DE IBIRICO
+ceed,20443,solo_maestro,CESAR,MANAURE BALCÓN DEL CESAR
+ceed,20517,solo_maestro,CESAR,PAILITAS
+ceed,20550,solo_maestro,CESAR,PELAYA
+ceed,20570,solo_maestro,CESAR,PUEBLO BELLO
+ceed,20614,solo_maestro,CESAR,RÍO DE ORO
+ceed,20621,solo_maestro,CESAR,LA PAZ
+ceed,20710,solo_maestro,CESAR,SAN ALBERTO
+ceed,20750,solo_maestro,CESAR,SAN DIEGO
+ceed,20770,solo_maestro,CESAR,SAN MARTÍN
+ceed,20787,solo_maestro,CESAR,TAMALAMEQUE
+ceed,23068,solo_maestro,CÓRDOBA,AYAPEL
+ceed,23079,solo_maestro,CÓRDOBA,BUENAVISTA
+ceed,23090,solo_maestro,CÓRDOBA,CANALETE
+ceed,23162,solo_maestro,CÓRDOBA,CERETÉ
+ceed,23168,solo_maestro,CÓRDOBA,CHIMÁ
+ceed,23182,solo_maestro,CÓRDOBA,CHINÚ
+ceed,23189,solo_maestro,CÓRDOBA,CIÉNAGA DE ORO
+ceed,23300,solo_maestro,CÓRDOBA,COTORRA
+ceed,23350,solo_maestro,CÓRDOBA,LA APARTADA
+ceed,23417,solo_maestro,CÓRDOBA,LORICA
+ceed,23419,solo_maestro,CÓRDOBA,LOS CÓRDOBAS
+ceed,23464,solo_maestro,CÓRDOBA,MOMIL
+ceed,23466,solo_maestro,CÓRDOBA,MONTELÍBANO
+ceed,23500,solo_maestro,CÓRDOBA,MOÑITOS
+ceed,23555,solo_maestro,CÓRDOBA,PLANETA RICA
+ceed,23570,solo_maestro,CÓRDOBA,PUEBLO NUEVO
+ceed,23574,solo_maestro,CÓRDOBA,PUERTO ESCONDIDO
+ceed,23580,solo_maestro,CÓRDOBA,PUERTO LIBERTADOR
+ceed,23586,solo_maestro,CÓRDOBA,PURÍSIMA DE LA CONCEPCIÓN
+ceed,23660,solo_maestro,CÓRDOBA,SAHAGÚN
+ceed,23670,solo_maestro,CÓRDOBA,SAN ANDRÉS DE SOTAVENTO
+ceed,23672,solo_maestro,CÓRDOBA,SAN ANTERO
+ceed,23675,solo_maestro,CÓRDOBA,SAN BERNARDO DEL VIENTO
+ceed,23678,solo_maestro,CÓRDOBA,SAN CARLOS
+ceed,23682,solo_maestro,CÓRDOBA,SAN JOSÉ DE URÉ
+ceed,23686,solo_maestro,CÓRDOBA,SAN PELAYO
+ceed,23807,solo_maestro,CÓRDOBA,TIERRALTA
+ceed,23815,solo_maestro,CÓRDOBA,TUCHÍN
+ceed,23855,solo_maestro,CÓRDOBA,VALENCIA
+ceed,25001,solo_maestro,CUNDINAMARCA,AGUA DE DIOS
+ceed,25019,solo_maestro,CUNDINAMARCA,ALBÁN
+ceed,25035,solo_maestro,CUNDINAMARCA,ANAPOIMA
+ceed,25040,solo_maestro,CUNDINAMARCA,ANOLAIMA
+ceed,25053,solo_maestro,CUNDINAMARCA,ARBELÁEZ
+ceed,25086,solo_maestro,CUNDINAMARCA,BELTRÁN
+ceed,25095,solo_maestro,CUNDINAMARCA,BITUIMA
+ceed,25099,solo_maestro,CUNDINAMARCA,BOJACÁ
+ceed,25120,solo_maestro,CUNDINAMARCA,CABRERA
+ceed,25123,solo_maestro,CUNDINAMARCA,CACHIPAY
+ceed,25148,solo_maestro,CUNDINAMARCA,CAPARRAPÍ
+ceed,25151,solo_maestro,CUNDINAMARCA,CÁQUEZA
+ceed,25154,solo_maestro,CUNDINAMARCA,CARMEN DE CARUPA
+ceed,25168,solo_maestro,CUNDINAMARCA,CHAGUANÍ
+ceed,25178,solo_maestro,CUNDINAMARCA,CHIPAQUE
+ceed,25181,solo_maestro,CUNDINAMARCA,CHOACHÍ
+ceed,25183,solo_maestro,CUNDINAMARCA,CHOCONTÁ
+ceed,25200,solo_maestro,CUNDINAMARCA,COGUA
+ceed,25224,solo_maestro,CUNDINAMARCA,CUCUNUBÁ
+ceed,25245,solo_maestro,CUNDINAMARCA,EL COLEGIO
+ceed,25258,solo_maestro,CUNDINAMARCA,EL PEÑÓN
+ceed,25260,solo_maestro,CUNDINAMARCA,EL ROSAL
+ceed,25279,solo_maestro,CUNDINAMARCA,FÓMEQUE
+ceed,25281,solo_maestro,CUNDINAMARCA,FOSCA
+ceed,25288,solo_maestro,CUNDINAMARCA,FÚQUENE
+ceed,25293,solo_maestro,CUNDINAMARCA,GACHALÁ
+ceed,25297,solo_maestro,CUNDINAMARCA,GACHETÁ
+ceed,25299,solo_maestro,CUNDINAMARCA,GAMA
+ceed,25312,solo_maestro,CUNDINAMARCA,GRANADA
+ceed,25317,solo_maestro,CUNDINAMARCA,GUACHETÁ
+ceed,25320,solo_maestro,CUNDINAMARCA,GUADUAS
+ceed,25322,solo_maestro,CUNDINAMARCA,GUASCA
+ceed,25324,solo_maestro,CUNDINAMARCA,GUATAQUÍ
+ceed,25326,solo_maestro,CUNDINAMARCA,GUATAVITA
+ceed,25328,solo_maestro,CUNDINAMARCA,GUAYABAL DE SÍQUIMA
+ceed,25335,solo_maestro,CUNDINAMARCA,GUAYABETAL
+ceed,25339,solo_maestro,CUNDINAMARCA,GUTIÉRREZ
+ceed,25368,solo_maestro,CUNDINAMARCA,JERUSALÉN
+ceed,25372,solo_maestro,CUNDINAMARCA,JUNÍN
+ceed,25386,solo_maestro,CUNDINAMARCA,LA MESA
+ceed,25394,solo_maestro,CUNDINAMARCA,LA PALMA
+ceed,25398,solo_maestro,CUNDINAMARCA,LA PEÑA
+ceed,25402,solo_maestro,CUNDINAMARCA,LA VEGA
+ceed,25407,solo_maestro,CUNDINAMARCA,LENGUAZAQUE
+ceed,25426,solo_maestro,CUNDINAMARCA,MACHETÁ
+ceed,25436,solo_maestro,CUNDINAMARCA,MANTA
+ceed,25438,solo_maestro,CUNDINAMARCA,MEDINA
+ceed,25483,solo_maestro,CUNDINAMARCA,NARIÑO
+ceed,25486,solo_maestro,CUNDINAMARCA,NEMOCÓN
+ceed,25488,solo_maestro,CUNDINAMARCA,NILO
+ceed,25489,solo_maestro,CUNDINAMARCA,NIMAIMA
+ceed,25491,solo_maestro,CUNDINAMARCA,NOCAIMA
+ceed,25506,solo_maestro,CUNDINAMARCA,VENECIA
+ceed,25513,solo_maestro,CUNDINAMARCA,PACHO
+ceed,25518,solo_maestro,CUNDINAMARCA,PAIME
+ceed,25524,solo_maestro,CUNDINAMARCA,PANDI
+ceed,25530,solo_maestro,CUNDINAMARCA,PARATEBUENO
+ceed,25535,solo_maestro,CUNDINAMARCA,PASCA
+ceed,25572,solo_maestro,CUNDINAMARCA,PUERTO SALGAR
+ceed,25580,solo_maestro,CUNDINAMARCA,PULÍ
+ceed,25592,solo_maestro,CUNDINAMARCA,QUEBRADANEGRA
+ceed,25594,solo_maestro,CUNDINAMARCA,QUETAME
+ceed,25596,solo_maestro,CUNDINAMARCA,QUIPILE
+ceed,25599,solo_maestro,CUNDINAMARCA,APULO
+ceed,25645,solo_maestro,CUNDINAMARCA,SAN ANTONIO DEL TEQUENDAMA
+ceed,25649,solo_maestro,CUNDINAMARCA,SAN BERNARDO
+ceed,25653,solo_maestro,CUNDINAMARCA,SAN CAYETANO
+ceed,25658,solo_maestro,CUNDINAMARCA,SAN FRANCISCO
+ceed,25662,solo_maestro,CUNDINAMARCA,SAN JUAN DE RIOSECO
+ceed,25718,solo_maestro,CUNDINAMARCA,SASAIMA
+ceed,25736,solo_maestro,CUNDINAMARCA,SESQUILÉ
+ceed,25743,solo_maestro,CUNDINAMARCA,SILVANIA
+ceed,25745,solo_maestro,CUNDINAMARCA,SIMIJACA
+ceed,25769,solo_maestro,CUNDINAMARCA,SUBACHOQUE
+ceed,25772,solo_maestro,CUNDINAMARCA,SUESCA
+ceed,25777,solo_maestro,CUNDINAMARCA,SUPATÁ
+ceed,25779,solo_maestro,CUNDINAMARCA,SUSA
+ceed,25781,solo_maestro,CUNDINAMARCA,SUTATAUSA
+ceed,25793,solo_maestro,CUNDINAMARCA,TAUSA
+ceed,25797,solo_maestro,CUNDINAMARCA,TENA
+ceed,25805,solo_maestro,CUNDINAMARCA,TIBACUY
+ceed,25807,solo_maestro,CUNDINAMARCA,TIBIRITA
+ceed,25815,solo_maestro,CUNDINAMARCA,TOCAIMA
+ceed,25823,solo_maestro,CUNDINAMARCA,TOPAIPÍ
+ceed,25839,solo_maestro,CUNDINAMARCA,UBALÁ
+ceed,25841,solo_maestro,CUNDINAMARCA,UBAQUE
+ceed,25843,solo_maestro,CUNDINAMARCA,VILLA DE SAN DIEGO DE UBATÉ
+ceed,25845,solo_maestro,CUNDINAMARCA,UNE
+ceed,25851,solo_maestro,CUNDINAMARCA,ÚTICA
+ceed,25862,solo_maestro,CUNDINAMARCA,VERGARA
+ceed,25867,solo_maestro,CUNDINAMARCA,VIANÍ
+ceed,25871,solo_maestro,CUNDINAMARCA,VILLAGÓMEZ
+ceed,25873,solo_maestro,CUNDINAMARCA,VILLAPINZÓN
+ceed,25875,solo_maestro,CUNDINAMARCA,VILLETA
+ceed,25878,solo_maestro,CUNDINAMARCA,VIOTÁ
+ceed,25885,solo_maestro,CUNDINAMARCA,YACOPÍ
+ceed,25898,solo_maestro,CUNDINAMARCA,ZIPACÓN
+ceed,27001,solo_maestro,CHOCÓ,QUIBDÓ
+ceed,27006,solo_maestro,CHOCÓ,ACANDÍ
+ceed,27025,solo_maestro,CHOCÓ,ALTO BAUDÓ
+ceed,27050,solo_maestro,CHOCÓ,ATRATO
+ceed,27073,solo_maestro,CHOCÓ,BAGADÓ
+ceed,27075,solo_maestro,CHOCÓ,BAHÍA SOLANO
+ceed,27077,solo_maestro,CHOCÓ,BAJO BAUDÓ
+ceed,27099,solo_maestro,CHOCÓ,BOJAYÁ
+ceed,27135,solo_maestro,CHOCÓ,EL CANTÓN DEL SAN PABLO
+ceed,27150,solo_maestro,CHOCÓ,CARMEN DEL DARIÉN
+ceed,27160,solo_maestro,CHOCÓ,CÉRTEGUI
+ceed,27205,solo_maestro,CHOCÓ,CONDOTO
+ceed,27245,solo_maestro,CHOCÓ,EL CARMEN DE ATRATO
+ceed,27250,solo_maestro,CHOCÓ,EL LITORAL DEL SAN JUAN
+ceed,27361,solo_maestro,CHOCÓ,ISTMINA
+ceed,27372,solo_maestro,CHOCÓ,JURADÓ
+ceed,27413,solo_maestro,CHOCÓ,LLORÓ
+ceed,27425,solo_maestro,CHOCÓ,MEDIO ATRATO
+ceed,27430,solo_maestro,CHOCÓ,MEDIO BAUDÓ
+ceed,27450,solo_maestro,CHOCÓ,MEDIO SAN JUAN
+ceed,27491,solo_maestro,CHOCÓ,NÓVITA
+ceed,27493,solo_maestro,CHOCÓ,NUEVO BELÉN DE BAJIRÁ
+ceed,27495,solo_maestro,CHOCÓ,NUQUÍ
+ceed,27580,solo_maestro,CHOCÓ,RÍO IRÓ
+ceed,27600,solo_maestro,CHOCÓ,RÍO QUITO
+ceed,27615,solo_maestro,CHOCÓ,RIOSUCIO
+ceed,27660,solo_maestro,CHOCÓ,SAN JOSÉ DEL PALMAR
+ceed,27745,solo_maestro,CHOCÓ,SIPÍ
+ceed,27787,solo_maestro,CHOCÓ,TADÓ
+ceed,27800,solo_maestro,CHOCÓ,UNGUÍA
+ceed,27810,solo_maestro,CHOCÓ,UNIÓN PANAMERICANA
+ceed,41006,solo_maestro,HUILA,ACEVEDO
+ceed,41013,solo_maestro,HUILA,AGRADO
+ceed,41016,solo_maestro,HUILA,AIPE
+ceed,41020,solo_maestro,HUILA,ALGECIRAS
+ceed,41026,solo_maestro,HUILA,ALTAMIRA
+ceed,41078,solo_maestro,HUILA,BARAYA
+ceed,41132,solo_maestro,HUILA,CAMPOALEGRE
+ceed,41206,solo_maestro,HUILA,COLOMBIA
+ceed,41244,solo_maestro,HUILA,ELÍAS
+ceed,41298,solo_maestro,HUILA,GARZÓN
+ceed,41306,solo_maestro,HUILA,GIGANTE
+ceed,41319,solo_maestro,HUILA,GUADALUPE
+ceed,41349,solo_maestro,HUILA,HOBO
+ceed,41357,solo_maestro,HUILA,ÍQUIRA
+ceed,41359,solo_maestro,HUILA,ISNOS
+ceed,41378,solo_maestro,HUILA,LA ARGENTINA
+ceed,41396,solo_maestro,HUILA,LA PLATA
+ceed,41483,solo_maestro,HUILA,NÁTAGA
+ceed,41503,solo_maestro,HUILA,OPORAPA
+ceed,41518,solo_maestro,HUILA,PAICOL
+ceed,41524,solo_maestro,HUILA,PALERMO
+ceed,41530,solo_maestro,HUILA,PALESTINA
+ceed,41548,solo_maestro,HUILA,PITAL
+ceed,41615,solo_maestro,HUILA,RIVERA
+ceed,41660,solo_maestro,HUILA,SALADOBLANCO
+ceed,41668,solo_maestro,HUILA,SAN AGUSTÍN
+ceed,41676,solo_maestro,HUILA,SANTA MARÍA
+ceed,41770,solo_maestro,HUILA,SUAZA
+ceed,41791,solo_maestro,HUILA,TARQUI
+ceed,41797,solo_maestro,HUILA,TESALIA
+ceed,41799,solo_maestro,HUILA,TELLO
+ceed,41801,solo_maestro,HUILA,TERUEL
+ceed,41807,solo_maestro,HUILA,TIMANÁ
+ceed,41872,solo_maestro,HUILA,VILLAVIEJA
+ceed,41885,solo_maestro,HUILA,YAGUARÁ
+ceed,44001,solo_maestro,LA GUAJIRA,RIOHACHA
+ceed,44035,solo_maestro,LA GUAJIRA,ALBANIA
+ceed,44078,solo_maestro,LA GUAJIRA,BARRANCAS
+ceed,44090,solo_maestro,LA GUAJIRA,DIBULLA
+ceed,44098,solo_maestro,LA GUAJIRA,DISTRACCIÓN
+ceed,44110,solo_maestro,LA GUAJIRA,EL MOLINO
+ceed,44279,solo_maestro,LA GUAJIRA,FONSECA
+ceed,44378,solo_maestro,LA GUAJIRA,HATONUEVO
+ceed,44420,solo_maestro,LA GUAJIRA,LA JAGUA DEL PILAR
+ceed,44430,solo_maestro,LA GUAJIRA,MAICAO
+ceed,44560,solo_maestro,LA GUAJIRA,MANAURE
+ceed,44650,solo_maestro,LA GUAJIRA,SAN JUAN DEL CESAR
+ceed,44847,solo_maestro,LA GUAJIRA,URIBIA
+ceed,44855,solo_maestro,LA GUAJIRA,URUMITA
+ceed,44874,solo_maestro,LA GUAJIRA,VILLANUEVA
+ceed,47030,solo_maestro,MAGDALENA,ALGARROBO
+ceed,47053,solo_maestro,MAGDALENA,ARACATACA
+ceed,47058,solo_maestro,MAGDALENA,ARIGUANÍ
+ceed,47161,solo_maestro,MAGDALENA,CERRO DE SAN ANTONIO
+ceed,47170,solo_maestro,MAGDALENA,CHIVOLO
+ceed,47189,solo_maestro,MAGDALENA,CIÉNAGA
+ceed,47205,solo_maestro,MAGDALENA,CONCORDIA
+ceed,47245,solo_maestro,MAGDALENA,EL BANCO
+ceed,47258,solo_maestro,MAGDALENA,EL PIÑÓN
+ceed,47268,solo_maestro,MAGDALENA,EL RETÉN
+ceed,47288,solo_maestro,MAGDALENA,FUNDACIÓN
+ceed,47318,solo_maestro,MAGDALENA,GUAMAL
+ceed,47460,solo_maestro,MAGDALENA,NUEVA GRANADA
+ceed,47541,solo_maestro,MAGDALENA,PEDRAZA
+ceed,47545,solo_maestro,MAGDALENA,PIJIÑO DEL CARMEN
+ceed,47551,solo_maestro,MAGDALENA,PIVIJAY
+ceed,47555,solo_maestro,MAGDALENA,PLATO
+ceed,47570,solo_maestro,MAGDALENA,PUEBLOVIEJO
+ceed,47605,solo_maestro,MAGDALENA,REMOLINO
+ceed,47660,solo_maestro,MAGDALENA,SABANAS DE SAN ÁNGEL
+ceed,47675,solo_maestro,MAGDALENA,SALAMINA
+ceed,47692,solo_maestro,MAGDALENA,SAN SEBASTIÁN DE BUENAVISTA
+ceed,47703,solo_maestro,MAGDALENA,SAN ZENÓN
+ceed,47707,solo_maestro,MAGDALENA,SANTA ANA
+ceed,47720,solo_maestro,MAGDALENA,SANTA BÁRBARA DE PINTO
+ceed,47798,solo_maestro,MAGDALENA,TENERIFE
+ceed,47960,solo_maestro,MAGDALENA,ZAPAYÁN
+ceed,47980,solo_maestro,MAGDALENA,ZONA BANANERA
+ceed,50110,solo_maestro,META,BARRANCA DE UPÍA
+ceed,50124,solo_maestro,META,CABUYARO
+ceed,50150,solo_maestro,META,CASTILLA LA NUEVA
+ceed,50223,solo_maestro,META,CUBARRAL
+ceed,50226,solo_maestro,META,CUMARAL
+ceed,50245,solo_maestro,META,EL CALVARIO
+ceed,50251,solo_maestro,META,EL CASTILLO
+ceed,50270,solo_maestro,META,EL DORADO
+ceed,50287,solo_maestro,META,FUENTE DE ORO
+ceed,50313,solo_maestro,META,GRANADA
+ceed,50318,solo_maestro,META,GUAMAL
+ceed,50325,solo_maestro,META,MAPIRIPÁN
+ceed,50330,solo_maestro,META,MESETAS
+ceed,50350,solo_maestro,META,LA MACARENA
+ceed,50370,solo_maestro,META,URIBE
+ceed,50400,solo_maestro,META,LEJANÍAS
+ceed,50450,solo_maestro,META,PUERTO CONCORDIA
+ceed,50568,solo_maestro,META,PUERTO GAITÁN
+ceed,50573,solo_maestro,META,PUERTO LÓPEZ
+ceed,50577,solo_maestro,META,PUERTO LLERAS
+ceed,50590,solo_maestro,META,PUERTO RICO
+ceed,50680,solo_maestro,META,SAN CARLOS DE GUAROA
+ceed,50683,solo_maestro,META,SAN JUAN DE ARAMA
+ceed,50686,solo_maestro,META,SAN JUANITO
+ceed,50689,solo_maestro,META,SAN MARTÍN
+ceed,50711,solo_maestro,META,VISTAHERMOSA
+ceed,52019,solo_maestro,NARIÑO,ALBÁN
+ceed,52022,solo_maestro,NARIÑO,ALDANA
+ceed,52036,solo_maestro,NARIÑO,ANCUYA
+ceed,52051,solo_maestro,NARIÑO,ARBOLEDA
+ceed,52079,solo_maestro,NARIÑO,BARBACOAS
+ceed,52083,solo_maestro,NARIÑO,BELÉN
+ceed,52110,solo_maestro,NARIÑO,BUESACO
+ceed,52203,solo_maestro,NARIÑO,COLÓN
+ceed,52207,solo_maestro,NARIÑO,CONSACÁ
+ceed,52210,solo_maestro,NARIÑO,CONTADERO
+ceed,52215,solo_maestro,NARIÑO,CÓRDOBA
+ceed,52224,solo_maestro,NARIÑO,CUASPUD CARLOSAMA
+ceed,52227,solo_maestro,NARIÑO,CUMBAL
+ceed,52233,solo_maestro,NARIÑO,CUMBITARA
+ceed,52240,solo_maestro,NARIÑO,CHACHAGÜÍ
+ceed,52250,solo_maestro,NARIÑO,EL CHARCO
+ceed,52254,solo_maestro,NARIÑO,EL PEÑOL
+ceed,52256,solo_maestro,NARIÑO,EL ROSARIO
+ceed,52258,solo_maestro,NARIÑO,EL TABLÓN DE GÓMEZ
+ceed,52260,solo_maestro,NARIÑO,EL TAMBO
+ceed,52287,solo_maestro,NARIÑO,FUNES
+ceed,52317,solo_maestro,NARIÑO,GUACHUCAL
+ceed,52320,solo_maestro,NARIÑO,GUAITARILLA
+ceed,52323,solo_maestro,NARIÑO,GUALMATÁN
+ceed,52352,solo_maestro,NARIÑO,ILES
+ceed,52354,solo_maestro,NARIÑO,IMUÉS
+ceed,52356,solo_maestro,NARIÑO,IPIALES
+ceed,52378,solo_maestro,NARIÑO,LA CRUZ
+ceed,52381,solo_maestro,NARIÑO,LA FLORIDA
+ceed,52385,solo_maestro,NARIÑO,LA LLANADA
+ceed,52390,solo_maestro,NARIÑO,LA TOLA
+ceed,52399,solo_maestro,NARIÑO,LA UNIÓN
+ceed,52405,solo_maestro,NARIÑO,LEIVA
+ceed,52411,solo_maestro,NARIÑO,LINARES
+ceed,52418,solo_maestro,NARIÑO,LOS ANDES
+ceed,52427,solo_maestro,NARIÑO,MAGÜÍ
+ceed,52435,solo_maestro,NARIÑO,MALLAMA
+ceed,52473,solo_maestro,NARIÑO,MOSQUERA
+ceed,52480,solo_maestro,NARIÑO,NARIÑO
+ceed,52490,solo_maestro,NARIÑO,OLAYA HERRERA
+ceed,52506,solo_maestro,NARIÑO,OSPINA
+ceed,52520,solo_maestro,NARIÑO,FRANCISCO PIZARRO
+ceed,52540,solo_maestro,NARIÑO,POLICARPA
+ceed,52560,solo_maestro,NARIÑO,POTOSÍ
+ceed,52565,solo_maestro,NARIÑO,PROVIDENCIA
+ceed,52573,solo_maestro,NARIÑO,PUERRES
+ceed,52585,solo_maestro,NARIÑO,PUPIALES
+ceed,52612,solo_maestro,NARIÑO,RICAURTE
+ceed,52621,solo_maestro,NARIÑO,ROBERTO PAYÁN
+ceed,52678,solo_maestro,NARIÑO,SAMANIEGO
+ceed,52683,solo_maestro,NARIÑO,SANDONÁ
+ceed,52685,solo_maestro,NARIÑO,SAN BERNARDO
+ceed,52687,solo_maestro,NARIÑO,SAN LORENZO
+ceed,52693,solo_maestro,NARIÑO,SAN PABLO
+ceed,52694,solo_maestro,NARIÑO,SAN PEDRO DE CARTAGO
+ceed,52696,solo_maestro,NARIÑO,SANTA BÁRBARA
+ceed,52699,solo_maestro,NARIÑO,SANTACRUZ
+ceed,52720,solo_maestro,NARIÑO,SAPUYES
+ceed,52786,solo_maestro,NARIÑO,TAMINANGO
+ceed,52788,solo_maestro,NARIÑO,TANGUA
+ceed,52835,solo_maestro,NARIÑO,SAN ANDRÉS DE TUMACO
+ceed,52838,solo_maestro,NARIÑO,TÚQUERRES
+ceed,52885,solo_maestro,NARIÑO,YACUANQUER
+ceed,54003,solo_maestro,NORTE DE SANTANDER,ÁBREGO
+ceed,54051,solo_maestro,NORTE DE SANTANDER,ARBOLEDAS
+ceed,54099,solo_maestro,NORTE DE SANTANDER,BOCHALEMA
+ceed,54109,solo_maestro,NORTE DE SANTANDER,BUCARASICA
+ceed,54125,solo_maestro,NORTE DE SANTANDER,CÁCOTA
+ceed,54128,solo_maestro,NORTE DE SANTANDER,CÁCHIRA
+ceed,54172,solo_maestro,NORTE DE SANTANDER,CHINÁCOTA
+ceed,54174,solo_maestro,NORTE DE SANTANDER,CHITAGÁ
+ceed,54206,solo_maestro,NORTE DE SANTANDER,CONVENCIÓN
+ceed,54223,solo_maestro,NORTE DE SANTANDER,CUCUTILLA
+ceed,54239,solo_maestro,NORTE DE SANTANDER,DURANIA
+ceed,54245,solo_maestro,NORTE DE SANTANDER,EL CARMEN
+ceed,54250,solo_maestro,NORTE DE SANTANDER,EL TARRA
+ceed,54313,solo_maestro,NORTE DE SANTANDER,GRAMALOTE
+ceed,54344,solo_maestro,NORTE DE SANTANDER,HACARÍ
+ceed,54347,solo_maestro,NORTE DE SANTANDER,HERRÁN
+ceed,54377,solo_maestro,NORTE DE SANTANDER,LABATECA
+ceed,54385,solo_maestro,NORTE DE SANTANDER,LA ESPERANZA
+ceed,54398,solo_maestro,NORTE DE SANTANDER,LA PLAYA
+ceed,54418,solo_maestro,NORTE DE SANTANDER,LOURDES
+ceed,54480,solo_maestro,NORTE DE SANTANDER,MUTISCUA
+ceed,54498,solo_maestro,NORTE DE SANTANDER,OCAÑA
+ceed,54518,solo_maestro,NORTE DE SANTANDER,PAMPLONA
+ceed,54520,solo_maestro,NORTE DE SANTANDER,PAMPLONITA
+ceed,54553,solo_maestro,NORTE DE SANTANDER,PUERTO SANTANDER
+ceed,54599,solo_maestro,NORTE DE SANTANDER,RAGONVALIA
+ceed,54660,solo_maestro,NORTE DE SANTANDER,SALAZAR
+ceed,54670,solo_maestro,NORTE DE SANTANDER,SAN CALIXTO
+ceed,54673,solo_maestro,NORTE DE SANTANDER,SAN CAYETANO
+ceed,54680,solo_maestro,NORTE DE SANTANDER,SANTIAGO
+ceed,54720,solo_maestro,NORTE DE SANTANDER,SARDINATA
+ceed,54743,solo_maestro,NORTE DE SANTANDER,SILOS
+ceed,54800,solo_maestro,NORTE DE SANTANDER,TEORAMA
+ceed,54810,solo_maestro,NORTE DE SANTANDER,TIBÚ
+ceed,54820,solo_maestro,NORTE DE SANTANDER,TOLEDO
+ceed,54871,solo_maestro,NORTE DE SANTANDER,VILLA CARO
+ceed,63111,solo_maestro,QUINDÍO,BUENAVISTA
+ceed,63130,solo_maestro,QUINDÍO,CALARCÁ
+ceed,63190,solo_maestro,QUINDÍO,CIRCASIA
+ceed,63212,solo_maestro,QUINDÍO,CÓRDOBA
+ceed,63272,solo_maestro,QUINDÍO,FILANDIA
+ceed,63302,solo_maestro,QUINDÍO,GÉNOVA
+ceed,63401,solo_maestro,QUINDÍO,LA TEBAIDA
+ceed,63470,solo_maestro,QUINDÍO,MONTENEGRO
+ceed,63548,solo_maestro,QUINDÍO,PIJAO
+ceed,63594,solo_maestro,QUINDÍO,QUIMBAYA
+ceed,63690,solo_maestro,QUINDÍO,SALENTO
+ceed,66045,solo_maestro,RISARALDA,APÍA
+ceed,66075,solo_maestro,RISARALDA,BALBOA
+ceed,66088,solo_maestro,RISARALDA,BELÉN DE UMBRÍA
+ceed,66318,solo_maestro,RISARALDA,GUÁTICA
+ceed,66383,solo_maestro,RISARALDA,LA CELIA
+ceed,66400,solo_maestro,RISARALDA,LA VIRGINIA
+ceed,66440,solo_maestro,RISARALDA,MARSELLA
+ceed,66456,solo_maestro,RISARALDA,MISTRATÓ
+ceed,66572,solo_maestro,RISARALDA,PUEBLO RICO
+ceed,66594,solo_maestro,RISARALDA,QUINCHÍA
+ceed,66687,solo_maestro,RISARALDA,SANTUARIO
+ceed,68013,solo_maestro,SANTANDER,AGUADA
+ceed,68020,solo_maestro,SANTANDER,ALBANIA
+ceed,68051,solo_maestro,SANTANDER,ARATOCA
+ceed,68077,solo_maestro,SANTANDER,BARBOSA
+ceed,68079,solo_maestro,SANTANDER,BARICHARA
+ceed,68081,solo_maestro,SANTANDER,BARRANCABERMEJA
+ceed,68092,solo_maestro,SANTANDER,BETULIA
+ceed,68101,solo_maestro,SANTANDER,BOLÍVAR
+ceed,68121,solo_maestro,SANTANDER,CABRERA
+ceed,68132,solo_maestro,SANTANDER,CALIFORNIA
+ceed,68147,solo_maestro,SANTANDER,CAPITANEJO
+ceed,68152,solo_maestro,SANTANDER,CARCASÍ
+ceed,68160,solo_maestro,SANTANDER,CEPITÁ
+ceed,68162,solo_maestro,SANTANDER,CERRITO
+ceed,68167,solo_maestro,SANTANDER,CHARALÁ
+ceed,68169,solo_maestro,SANTANDER,CHARTA
+ceed,68176,solo_maestro,SANTANDER,CHIMA
+ceed,68179,solo_maestro,SANTANDER,CHIPATÁ
+ceed,68190,solo_maestro,SANTANDER,CIMITARRA
+ceed,68207,solo_maestro,SANTANDER,CONCEPCIÓN
+ceed,68209,solo_maestro,SANTANDER,CONFINES
+ceed,68211,solo_maestro,SANTANDER,CONTRATACIÓN
+ceed,68217,solo_maestro,SANTANDER,COROMORO
+ceed,68229,solo_maestro,SANTANDER,CURITÍ
+ceed,68235,solo_maestro,SANTANDER,EL CARMEN DE CHUCURÍ
+ceed,68245,solo_maestro,SANTANDER,EL GUACAMAYO
+ceed,68250,solo_maestro,SANTANDER,EL PEÑÓN
+ceed,68255,solo_maestro,SANTANDER,EL PLAYÓN
+ceed,68264,solo_maestro,SANTANDER,ENCINO
+ceed,68266,solo_maestro,SANTANDER,ENCISO
+ceed,68271,solo_maestro,SANTANDER,FLORIÁN
+ceed,68296,solo_maestro,SANTANDER,GALÁN
+ceed,68298,solo_maestro,SANTANDER,GÁMBITA
+ceed,68318,solo_maestro,SANTANDER,GUACA
+ceed,68320,solo_maestro,SANTANDER,GUADALUPE
+ceed,68322,solo_maestro,SANTANDER,GUAPOTÁ
+ceed,68324,solo_maestro,SANTANDER,GUAVATÁ
+ceed,68327,solo_maestro,SANTANDER,GÜEPSA
+ceed,68344,solo_maestro,SANTANDER,HATO
+ceed,68368,solo_maestro,SANTANDER,JESÚS MARÍA
+ceed,68370,solo_maestro,SANTANDER,JORDÁN
+ceed,68377,solo_maestro,SANTANDER,LA BELLEZA
+ceed,68385,solo_maestro,SANTANDER,LANDÁZURI
+ceed,68397,solo_maestro,SANTANDER,LA PAZ
+ceed,68406,solo_maestro,SANTANDER,LEBRIJA
+ceed,68418,solo_maestro,SANTANDER,LOS SANTOS
+ceed,68425,solo_maestro,SANTANDER,MACARAVITA
+ceed,68432,solo_maestro,SANTANDER,MÁLAGA
+ceed,68444,solo_maestro,SANTANDER,MATANZA
+ceed,68464,solo_maestro,SANTANDER,MOGOTES
+ceed,68468,solo_maestro,SANTANDER,MOLAGAVITA
+ceed,68498,solo_maestro,SANTANDER,OCAMONTE
+ceed,68500,solo_maestro,SANTANDER,OIBA
+ceed,68502,solo_maestro,SANTANDER,ONZAGA
+ceed,68522,solo_maestro,SANTANDER,PALMAR
+ceed,68524,solo_maestro,SANTANDER,PALMAS DEL SOCORRO
+ceed,68533,solo_maestro,SANTANDER,PÁRAMO
+ceed,68549,solo_maestro,SANTANDER,PINCHOTE
+ceed,68572,solo_maestro,SANTANDER,PUENTE NACIONAL
+ceed,68573,solo_maestro,SANTANDER,PUERTO PARRA
+ceed,68575,solo_maestro,SANTANDER,PUERTO WILCHES
+ceed,68615,solo_maestro,SANTANDER,RIONEGRO
+ceed,68655,solo_maestro,SANTANDER,SABANA DE TORRES
+ceed,68669,solo_maestro,SANTANDER,SAN ANDRÉS
+ceed,68673,solo_maestro,SANTANDER,SAN BENITO
+ceed,68679,solo_maestro,SANTANDER,SAN GIL
+ceed,68682,solo_maestro,SANTANDER,SAN JOAQUÍN
+ceed,68684,solo_maestro,SANTANDER,SAN JOSÉ DE MIRANDA
+ceed,68686,solo_maestro,SANTANDER,SAN MIGUEL
+ceed,68689,solo_maestro,SANTANDER,SAN VICENTE DE CHUCURÍ
+ceed,68705,solo_maestro,SANTANDER,SANTA BÁRBARA
+ceed,68720,solo_maestro,SANTANDER,SANTA HELENA DEL OPÓN
+ceed,68745,solo_maestro,SANTANDER,SIMACOTA
+ceed,68755,solo_maestro,SANTANDER,SOCORRO
+ceed,68770,solo_maestro,SANTANDER,SUAITA
+ceed,68773,solo_maestro,SANTANDER,SUCRE
+ceed,68780,solo_maestro,SANTANDER,SURATÁ
+ceed,68820,solo_maestro,SANTANDER,TONA
+ceed,68855,solo_maestro,SANTANDER,VALLE DE SAN JOSÉ
+ceed,68861,solo_maestro,SANTANDER,VÉLEZ
+ceed,68867,solo_maestro,SANTANDER,VETAS
+ceed,68872,solo_maestro,SANTANDER,VILLANUEVA
+ceed,68895,solo_maestro,SANTANDER,ZAPATOCA
+ceed,70110,solo_maestro,SUCRE,BUENAVISTA
+ceed,70124,solo_maestro,SUCRE,CAIMITO
+ceed,70204,solo_maestro,SUCRE,COLOSÓ
+ceed,70215,solo_maestro,SUCRE,COROZAL
+ceed,70221,solo_maestro,SUCRE,COVEÑAS
+ceed,70230,solo_maestro,SUCRE,CHALÁN
+ceed,70233,solo_maestro,SUCRE,EL ROBLE
+ceed,70235,solo_maestro,SUCRE,GALERAS
+ceed,70265,solo_maestro,SUCRE,GUARANDA
+ceed,70400,solo_maestro,SUCRE,LA UNIÓN
+ceed,70418,solo_maestro,SUCRE,LOS PALMITOS
+ceed,70429,solo_maestro,SUCRE,MAJAGUAL
+ceed,70473,solo_maestro,SUCRE,MORROA
+ceed,70508,solo_maestro,SUCRE,OVEJAS
+ceed,70523,solo_maestro,SUCRE,PALMITO
+ceed,70670,solo_maestro,SUCRE,SAMPUÉS
+ceed,70678,solo_maestro,SUCRE,SAN BENITO ABAD
+ceed,70702,solo_maestro,SUCRE,SAN JUAN DE BETULIA
+ceed,70708,solo_maestro,SUCRE,SAN MARCOS
+ceed,70713,solo_maestro,SUCRE,SAN ONOFRE
+ceed,70717,solo_maestro,SUCRE,SAN PEDRO
+ceed,70742,solo_maestro,SUCRE,SAN LUIS DE SINCÉ
+ceed,70771,solo_maestro,SUCRE,SUCRE
+ceed,70820,solo_maestro,SUCRE,SANTIAGO DE TOLÚ
+ceed,70823,solo_maestro,SUCRE,SAN JOSÉ DE TOLUVIEJO
+ceed,73024,solo_maestro,TOLIMA,ALPUJARRA
+ceed,73026,solo_maestro,TOLIMA,ALVARADO
+ceed,73030,solo_maestro,TOLIMA,AMBALEMA
+ceed,73043,solo_maestro,TOLIMA,ANZOÁTEGUI
+ceed,73055,solo_maestro,TOLIMA,ARMERO
+ceed,73067,solo_maestro,TOLIMA,ATACO
+ceed,73124,solo_maestro,TOLIMA,CAJAMARCA
+ceed,73148,solo_maestro,TOLIMA,CARMEN DE APICALÁ
+ceed,73152,solo_maestro,TOLIMA,CASABIANCA
+ceed,73168,solo_maestro,TOLIMA,CHAPARRAL
+ceed,73200,solo_maestro,TOLIMA,COELLO
+ceed,73217,solo_maestro,TOLIMA,COYAIMA
+ceed,73226,solo_maestro,TOLIMA,CUNDAY
+ceed,73236,solo_maestro,TOLIMA,DOLORES
+ceed,73268,solo_maestro,TOLIMA,ESPINAL
+ceed,73270,solo_maestro,TOLIMA,FALAN
+ceed,73275,solo_maestro,TOLIMA,FLANDES
+ceed,73283,solo_maestro,TOLIMA,FRESNO
+ceed,73319,solo_maestro,TOLIMA,GUAMO
+ceed,73347,solo_maestro,TOLIMA,HERVEO
+ceed,73349,solo_maestro,TOLIMA,HONDA
+ceed,73352,solo_maestro,TOLIMA,ICONONZO
+ceed,73408,solo_maestro,TOLIMA,LÉRIDA
+ceed,73411,solo_maestro,TOLIMA,LÍBANO
+ceed,73443,solo_maestro,TOLIMA,SAN SEBASTIÁN DE MARIQUITA
+ceed,73449,solo_maestro,TOLIMA,MELGAR
+ceed,73461,solo_maestro,TOLIMA,MURILLO
+ceed,73483,solo_maestro,TOLIMA,NATAGAIMA
+ceed,73504,solo_maestro,TOLIMA,ORTEGA
+ceed,73520,solo_maestro,TOLIMA,PALOCABILDO
+ceed,73547,solo_maestro,TOLIMA,PIEDRAS
+ceed,73555,solo_maestro,TOLIMA,PLANADAS
+ceed,73563,solo_maestro,TOLIMA,PRADO
+ceed,73585,solo_maestro,TOLIMA,PURIFICACIÓN
+ceed,73616,solo_maestro,TOLIMA,RIOBLANCO
+ceed,73622,solo_maestro,TOLIMA,RONCESVALLES
+ceed,73624,solo_maestro,TOLIMA,ROVIRA
+ceed,73671,solo_maestro,TOLIMA,SALDAÑA
+ceed,73675,solo_maestro,TOLIMA,SAN ANTONIO
+ceed,73678,solo_maestro,TOLIMA,SAN LUIS
+ceed,73686,solo_maestro,TOLIMA,SANTA ISABEL
+ceed,73770,solo_maestro,TOLIMA,SUÁREZ
+ceed,73854,solo_maestro,TOLIMA,VALLE DE SAN JUAN
+ceed,73861,solo_maestro,TOLIMA,VENADILLO
+ceed,73870,solo_maestro,TOLIMA,VILLAHERMOSA
+ceed,73873,solo_maestro,TOLIMA,VILLARRICA
+ceed,76020,solo_maestro,VALLE DEL CAUCA,ALCALÁ
+ceed,76036,solo_maestro,VALLE DEL CAUCA,ANDALUCÍA
+ceed,76041,solo_maestro,VALLE DEL CAUCA,ANSERMANUEVO
+ceed,76054,solo_maestro,VALLE DEL CAUCA,ARGELIA
+ceed,76100,solo_maestro,VALLE DEL CAUCA,BOLÍVAR
+ceed,76109,solo_maestro,VALLE DEL CAUCA,BUENAVENTURA
+ceed,76113,solo_maestro,VALLE DEL CAUCA,BUGALAGRANDE
+ceed,76122,solo_maestro,VALLE DEL CAUCA,CAICEDONIA
+ceed,76126,solo_maestro,VALLE DEL CAUCA,CALIMA
+ceed,76147,solo_maestro,VALLE DEL CAUCA,CARTAGO
+ceed,76233,solo_maestro,VALLE DEL CAUCA,DAGUA
+ceed,76243,solo_maestro,VALLE DEL CAUCA,EL ÁGUILA
+ceed,76246,solo_maestro,VALLE DEL CAUCA,EL CAIRO
+ceed,76248,solo_maestro,VALLE DEL CAUCA,EL CERRITO
+ceed,76250,solo_maestro,VALLE DEL CAUCA,EL DOVIO
+ceed,76275,solo_maestro,VALLE DEL CAUCA,FLORIDA
+ceed,76306,solo_maestro,VALLE DEL CAUCA,GINEBRA
+ceed,76318,solo_maestro,VALLE DEL CAUCA,GUACARÍ
+ceed,76377,solo_maestro,VALLE DEL CAUCA,LA CUMBRE
+ceed,76400,solo_maestro,VALLE DEL CAUCA,LA UNIÓN
+ceed,76403,solo_maestro,VALLE DEL CAUCA,LA VICTORIA
+ceed,76497,solo_maestro,VALLE DEL CAUCA,OBANDO
+ceed,76563,solo_maestro,VALLE DEL CAUCA,PRADERA
+ceed,76606,solo_maestro,VALLE DEL CAUCA,RESTREPO
+ceed,76616,solo_maestro,VALLE DEL CAUCA,RIOFRÍO
+ceed,76622,solo_maestro,VALLE DEL CAUCA,ROLDANILLO
+ceed,76670,solo_maestro,VALLE DEL CAUCA,SAN PEDRO
+ceed,76736,solo_maestro,VALLE DEL CAUCA,SEVILLA
+ceed,76823,solo_maestro,VALLE DEL CAUCA,TORO
+ceed,76828,solo_maestro,VALLE DEL CAUCA,TRUJILLO
+ceed,76845,solo_maestro,VALLE DEL CAUCA,ULLOA
+ceed,76863,solo_maestro,VALLE DEL CAUCA,VERSALLES
+ceed,76869,solo_maestro,VALLE DEL CAUCA,VIJES
+ceed,76890,solo_maestro,VALLE DEL CAUCA,YOTOCO
+ceed,76895,solo_maestro,VALLE DEL CAUCA,ZARZAL
+ceed,81001,solo_maestro,ARAUCA,ARAUCA
+ceed,81065,solo_maestro,ARAUCA,ARAUQUITA
+ceed,81220,solo_maestro,ARAUCA,CRAVO NORTE
+ceed,81300,solo_maestro,ARAUCA,FORTUL
+ceed,81591,solo_maestro,ARAUCA,PUERTO RONDÓN
+ceed,81736,solo_maestro,ARAUCA,SARAVENA
+ceed,81794,solo_maestro,ARAUCA,TAME
+ceed,85010,solo_maestro,CASANARE,AGUAZUL
+ceed,85015,solo_maestro,CASANARE,CHÁMEZA
+ceed,85125,solo_maestro,CASANARE,HATO COROZAL
+ceed,85136,solo_maestro,CASANARE,LA SALINA
+ceed,85139,solo_maestro,CASANARE,MANÍ
+ceed,85162,solo_maestro,CASANARE,MONTERREY
+ceed,85225,solo_maestro,CASANARE,NUNCHÍA
+ceed,85230,solo_maestro,CASANARE,OROCUÉ
+ceed,85250,solo_maestro,CASANARE,PAZ DE ARIPORO
+ceed,85263,solo_maestro,CASANARE,PORE
+ceed,85279,solo_maestro,CASANARE,RECETOR
+ceed,85300,solo_maestro,CASANARE,SABANALARGA
+ceed,85315,solo_maestro,CASANARE,SÁCAMA
+ceed,85325,solo_maestro,CASANARE,SAN LUIS DE PALENQUE
+ceed,85400,solo_maestro,CASANARE,TÁMARA
+ceed,85410,solo_maestro,CASANARE,TAURAMENA
+ceed,85430,solo_maestro,CASANARE,TRINIDAD
+ceed,85440,solo_maestro,CASANARE,VILLANUEVA
+ceed,86001,solo_maestro,PUTUMAYO,MOCOA
+ceed,86219,solo_maestro,PUTUMAYO,COLÓN
+ceed,86320,solo_maestro,PUTUMAYO,ORITO
+ceed,86568,solo_maestro,PUTUMAYO,PUERTO ASÍS
+ceed,86569,solo_maestro,PUTUMAYO,PUERTO CAICEDO
+ceed,86571,solo_maestro,PUTUMAYO,PUERTO GUZMÁN
+ceed,86573,solo_maestro,PUTUMAYO,PUERTO LEGUÍZAMO
+ceed,86749,solo_maestro,PUTUMAYO,SIBUNDOY
+ceed,86755,solo_maestro,PUTUMAYO,SAN FRANCISCO
+ceed,86757,solo_maestro,PUTUMAYO,SAN MIGUEL
+ceed,86760,solo_maestro,PUTUMAYO,SANTIAGO
+ceed,86865,solo_maestro,PUTUMAYO,VALLE DEL GUAMUEZ
+ceed,86885,solo_maestro,PUTUMAYO,VILLAGARZÓN
+ceed,88001,solo_maestro,"ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",SAN ANDRÉS
+ceed,88564,solo_maestro,"ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",PROVIDENCIA
+ceed,91001,solo_maestro,AMAZONAS,LETICIA
+ceed,91263,solo_maestro,AMAZONAS,EL ENCANTO
+ceed,91405,solo_maestro,AMAZONAS,LA CHORRERA
+ceed,91407,solo_maestro,AMAZONAS,LA PEDRERA
+ceed,91430,solo_maestro,AMAZONAS,LA VICTORIA
+ceed,91460,solo_maestro,AMAZONAS,MIRITÍ - PARANÁ
+ceed,91530,solo_maestro,AMAZONAS,PUERTO ALEGRÍA
+ceed,91536,solo_maestro,AMAZONAS,PUERTO ARICA
+ceed,91540,solo_maestro,AMAZONAS,PUERTO NARIÑO
+ceed,91669,solo_maestro,AMAZONAS,PUERTO SANTANDER
+ceed,91798,solo_maestro,AMAZONAS,TARAPACÁ
+ceed,94001,solo_maestro,GUAINÍA,INÍRIDA
+ceed,94343,solo_maestro,GUAINÍA,BARRANCOMINAS
+ceed,94883,solo_maestro,GUAINÍA,SAN FELIPE
+ceed,94884,solo_maestro,GUAINÍA,PUERTO COLOMBIA
+ceed,94885,solo_maestro,GUAINÍA,LA GUADALUPE
+ceed,94886,solo_maestro,GUAINÍA,CACAHUAL
+ceed,94887,solo_maestro,GUAINÍA,PANA PANA
+ceed,94888,solo_maestro,GUAINÍA,MORICHAL
+ceed,95001,solo_maestro,GUAVIARE,SAN JOSÉ DEL GUAVIARE
+ceed,95015,solo_maestro,GUAVIARE,CALAMAR
+ceed,95025,solo_maestro,GUAVIARE,EL RETORNO
+ceed,95200,solo_maestro,GUAVIARE,MIRAFLORES
+ceed,97001,solo_maestro,VAUPÉS,MITÚ
+ceed,97161,solo_maestro,VAUPÉS,CARURÚ
+ceed,97511,solo_maestro,VAUPÉS,PACOA
+ceed,97666,solo_maestro,VAUPÉS,TARAIRA
+ceed,97777,solo_maestro,VAUPÉS,PAPUNAHUA
+ceed,97889,solo_maestro,VAUPÉS,YAVARATÉ
+ceed,99001,solo_maestro,VICHADA,PUERTO CARREÑO
+ceed,99524,solo_maestro,VICHADA,LA PRIMAVERA
+ceed,99624,solo_maestro,VICHADA,SANTA ROSALÍA
+ceed,99773,solo_maestro,VICHADA,CUMARIBO
+poblacion,94663,solo_fuente,,
