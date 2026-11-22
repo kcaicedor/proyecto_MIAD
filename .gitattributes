@@ -3,3 +3,5 @@
 *.xls filter=lfs diff=lfs merge=lfs -text
 /Exploracion_Deficit.ipynb -filter -diff -merge text
 /Exploracion_Tabla_Coyuntura.ipynb -filter -diff -merge text
+*.parquet filter=lfs diff=lfs merge=lfs -text
+Integracion/Datos_originales/IGAC/*.csv filter=lfs diff=lfs merge=lfs -text
