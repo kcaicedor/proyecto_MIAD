@@ -5,3 +5,4 @@
 /Exploracion_Tabla_Coyuntura.ipynb -filter -diff -merge text
 *.parquet filter=lfs diff=lfs merge=lfs -text
 Integracion/Datos_originales/IGAC/*.csv filter=lfs diff=lfs merge=lfs -text
+Integracion/Datos_originales/DATO_ANONIM_119_IITRIM2026.csv filter=lfs diff=lfs merge=lfs -text
