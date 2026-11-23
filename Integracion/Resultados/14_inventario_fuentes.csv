@@ -1,10 +1,10 @@
 ﻿fuente,nombre,archivo,notebook,esperada_preliminar,referencia_temporal,disponible,estado,territorios_fuente,variables,coincidentes,solo_fuente,solo_maestro,cobertura_pct,columnas_acumuladas,fecha_integracion
-igac,IGAC – transacciones,igac_municipal.parquet,03,True,2015–2023; histórico,True,Integrada,1084.0,244.0,1084.0,0.0,38.0,96.61319073083779,253.0,2026-11-22T11:07:19.891021-05:00
-hogares,DANE – proyección de hogares,hogares_limpio.parquet,04,True,2018–2042; cabecera,True,Integrada,1123.0,25.0,1122.0,1.0,0.0,100.0,278.0,2026-11-22T11:07:19.891021-05:00
-deficit,DANE – déficit habitacional,deficit_municipal.parquet,05,True,CNPV 2018,True,Integrada,1122.0,2.0,1121.0,1.0,1.0,99.9108734402852,280.0,2026-11-22T11:07:19.891021-05:00
-elic,DANE – licencias de construcción,elic_municipal.parquet,07,True,2005–2026; último año parcial,True,Integrada,1080.0,2242.0,1080.0,0.0,42.0,96.2566844919786,2522.0,2026-11-22T11:07:19.891021-05:00
-seguridad,Mindefensa – seguridad,seguridad_municipal.parquet,08,True,2015–2026; último año parcial,True,Integrada,1112.0,24.0,1111.0,1.0,11.0,99.01960784313725,2546.0,2026-11-22T11:07:19.891021-05:00
-fuente6,Fuente 6 – coyuntura regional,,09,False,Pendiente de homologación territorial,False,Pendiente de preparación,,,,,,,,2026-11-22T11:07:19.891021-05:00
-ceed,DANE – censo de edificaciones,ceed_municipal.parquet,11,True,2007–2026; años extremos parciales,True,Integrada,91.0,3428.0,91.0,0.0,1031.0,8.110516934046347,5974.0,2026-11-22T11:07:19.891021-05:00
-censo,DANE – censo nacional,censo_municipal.parquet,12,False,CNPV 2018,False,Archivo no disponible,,,,,,,,2026-11-22T11:07:19.891021-05:00
-poblacion,DANE – proyección de población,poblacion_municipal.parquet,13,True,2018–2042; serie DANE,True,Integrada,1123.0,75.0,1122.0,1.0,0.0,100.0,6049.0,2026-11-22T11:07:19.891021-05:00
+igac,IGAC – transacciones,igac_municipal.parquet,03,True,2015–2023; histórico,True,Integrada,1084.0,244.0,1084.0,0.0,38.0,96.61319073083779,253.0,2026-11-22T18:33:24.971339-05:00
+hogares,DANE – proyección de hogares,hogares_limpio.parquet,04,True,2018–2042; cabecera,True,Integrada,1123.0,25.0,1122.0,1.0,0.0,100.0,278.0,2026-11-22T18:33:24.971339-05:00
+deficit,DANE – déficit habitacional,deficit_municipal.parquet,05,True,CNPV 2018,True,Integrada,1122.0,2.0,1121.0,1.0,1.0,99.9108734402852,280.0,2026-11-22T18:33:24.971339-05:00
+elic,DANE – licencias de construcción,elic_municipal.parquet,07,True,2005–2026; último año parcial,True,Integrada,1080.0,2242.0,1080.0,0.0,42.0,96.2566844919786,2522.0,2026-11-22T18:33:24.971339-05:00
+seguridad,Mindefensa – seguridad,seguridad_municipal.parquet,08,True,2015–2026; último año parcial,True,Integrada,1112.0,24.0,1111.0,1.0,11.0,99.01960784313725,2546.0,2026-11-22T18:33:24.971339-05:00
+fuente6,CAMACOL – coyuntura regional,,09,False,Excluida por incompatibilidad de granularidad,False,Excluida metodológicamente,,,,,,,,2026-11-22T18:33:24.971339-05:00
+ceed,DANE – censo de edificaciones,ceed_municipal.parquet,11,True,2007–2026; años extremos parciales,True,Integrada,91.0,3428.0,91.0,0.0,1031.0,8.110516934046347,5974.0,2026-11-22T18:33:24.971339-05:00
+censo,DANE – censo nacional,censo_municipal.parquet,12,True,CNPV 2018,True,Integrada,1121.0,118.0,1120.0,1.0,2.0,99.82174688057042,6092.0,2026-11-22T18:33:24.971339-05:00
+poblacion,DANE – proyección de población,poblacion_municipal.parquet,13,True,2018–2042; serie DANE,True,Integrada,1123.0,75.0,1122.0,1.0,0.0,100.0,6167.0,2026-11-22T18:33:24.971339-05:00

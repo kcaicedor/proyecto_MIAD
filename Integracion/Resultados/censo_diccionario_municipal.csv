@@ -1,0 +1,120 @@
+﻿variable,origen,universo,descripcion
+divipola,U_DPTO + U_MPIO,territorio,Código DANE de cinco dígitos
+censo_registros_2018,Todas las filas,Registros de unidades,Conteo observado del universo
+censo_viviendas_residenciales_2018,UVA_USO_UNIDAD,Uso vivienda o mixto,Conteo observado del universo
+censo_viviendas_ocupadas_presentes_2018,V_CON_OCUP,Viviendas residenciales ocupadas con personas presentes,Conteo observado del universo
+censo_viviendas_ocupadas_con_energia_2018,VA_EE,Viviendas ocupadas con personas presentes y energía,Conteo observado del universo
+censo_uso_n_elegibles_2018,UVA_USO_UNIDAD,Registros de unidades,Registros elegibles para la pregunta
+censo_uso_n_validos_2018,UVA_USO_UNIDAD,Registros de unidades,Respuestas válidas
+censo_uso_n_nulos_2018,UVA_USO_UNIDAD,Registros de unidades,Respuestas faltantes en el universo elegible
+censo_uso_n_otro_codigo_2018,UVA_USO_UNIDAD,Registros de unidades,Respuestas fuera de las categorías consideradas
+censo_uso_vivienda_2018,UVA_USO_UNIDAD,Registros de unidades,Conteo de respuestas con código 1: vivienda
+censo_uso_mixto_2018,UVA_USO_UNIDAD,Registros de unidades,Conteo de respuestas con código 2: mixto
+censo_uso_no_residencial_2018,UVA_USO_UNIDAD,Registros de unidades,Conteo de respuestas con código 3: no residencial
+censo_uso_lea_2018,UVA_USO_UNIDAD,Registros de unidades,Conteo de respuestas con código 4: lea
+censo_clase_n_elegibles_2018,UA_CLASE,Uso vivienda o mixto,Registros elegibles para la pregunta
+censo_clase_n_validos_2018,UA_CLASE,Uso vivienda o mixto,Respuestas válidas
+censo_clase_n_nulos_2018,UA_CLASE,Uso vivienda o mixto,Respuestas faltantes en el universo elegible
+censo_clase_n_otro_codigo_2018,UA_CLASE,Uso vivienda o mixto,Respuestas fuera de las categorías consideradas
+censo_clase_cabecera_2018,UA_CLASE,Uso vivienda o mixto,Conteo de respuestas con código 1: cabecera
+censo_clase_centro_poblado_2018,UA_CLASE,Uso vivienda o mixto,Conteo de respuestas con código 2: centro poblado
+censo_clase_rural_disperso_2018,UA_CLASE,Uso vivienda o mixto,Conteo de respuestas con código 3: rural disperso
+censo_clase_resto_rural_2018,UA_CLASE,Uso vivienda o mixto,Conteo de respuestas con código 4: resto rural
+censo_area_protegida_n_elegibles_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Registros elegibles para la pregunta
+censo_area_protegida_n_validos_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Respuestas válidas
+censo_area_protegida_n_nulos_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Respuestas faltantes en el universo elegible
+censo_area_protegida_n_otro_codigo_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Respuestas fuera de las categorías consideradas
+censo_area_protegida_si_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Conteo de respuestas con código 1: si
+censo_area_protegida_no_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Conteo de respuestas con código 2: no
+censo_area_protegida_no_aplica_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Conteo de respuestas con código 4: no aplica
+censo_area_protegida_no_informa_2018,UVA_ESTA_AREAPROT,Uso vivienda o mixto,Conteo de respuestas con código 9: no informa
+censo_tipo_n_elegibles_2018,V_TIPO_VIV,Uso vivienda o mixto,Registros elegibles para la pregunta
+censo_tipo_n_validos_2018,V_TIPO_VIV,Uso vivienda o mixto,Respuestas válidas
+censo_tipo_n_nulos_2018,V_TIPO_VIV,Uso vivienda o mixto,Respuestas faltantes en el universo elegible
+censo_tipo_n_otro_codigo_2018,V_TIPO_VIV,Uso vivienda o mixto,Respuestas fuera de las categorías consideradas
+censo_tipo_casa_2018,V_TIPO_VIV,Uso vivienda o mixto,Conteo de respuestas con código 1: casa
+censo_tipo_apartamento_2018,V_TIPO_VIV,Uso vivienda o mixto,Conteo de respuestas con código 2: apartamento
+censo_tipo_cuarto_2018,V_TIPO_VIV,Uso vivienda o mixto,Conteo de respuestas con código 3: cuarto
+censo_tipo_tradicional_indigena_2018,V_TIPO_VIV,Uso vivienda o mixto,Conteo de respuestas con código 4: tradicional indigena
+censo_tipo_tradicional_etnica_2018,V_TIPO_VIV,Uso vivienda o mixto,Conteo de respuestas con código 5: tradicional etnica
+censo_tipo_otro_2018,V_TIPO_VIV,Uso vivienda o mixto,Conteo de respuestas con código 6: otro
+censo_ocupacion_n_elegibles_2018,V_CON_OCUP,Uso vivienda o mixto,Registros elegibles para la pregunta
+censo_ocupacion_n_validos_2018,V_CON_OCUP,Uso vivienda o mixto,Respuestas válidas
+censo_ocupacion_n_nulos_2018,V_CON_OCUP,Uso vivienda o mixto,Respuestas faltantes en el universo elegible
+censo_ocupacion_n_otro_codigo_2018,V_CON_OCUP,Uso vivienda o mixto,Respuestas fuera de las categorías consideradas
+censo_ocupacion_presentes_2018,V_CON_OCUP,Uso vivienda o mixto,Conteo de respuestas con código 1: presentes
+censo_ocupacion_ausentes_2018,V_CON_OCUP,Uso vivienda o mixto,Conteo de respuestas con código 2: ausentes
+censo_ocupacion_temporal_2018,V_CON_OCUP,Uso vivienda o mixto,Conteo de respuestas con código 3: temporal
+censo_ocupacion_desocupada_2018,V_CON_OCUP,Uso vivienda o mixto,Conteo de respuestas con código 4: desocupada
+censo_pared_n_elegibles_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_pared_n_validos_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_pared_n_nulos_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_pared_n_otro_codigo_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_pared_bloque_ladrillo_piedra_madera_pulida_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 1: bloque ladrillo piedra madera pulida
+censo_pared_concreto_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 2: concreto
+censo_pared_prefabricado_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 3: prefabricado
+censo_pared_guadua_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 4: guadua
+censo_pared_tapia_bahareque_adobe_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 5: tapia bahareque adobe
+censo_pared_madera_burda_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 6: madera burda
+censo_pared_vegetales_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 7: vegetales
+censo_pared_desechos_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 8: desechos
+censo_pared_sin_paredes_2018,V_MAT_PARED,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 9: sin paredes
+censo_piso_n_elegibles_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_piso_n_validos_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_piso_n_nulos_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_piso_n_otro_codigo_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_piso_marmol_parque_madera_pulida_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 1: marmol parque madera pulida
+censo_piso_baldosa_vinilo_ladrillo_laminado_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 2: baldosa vinilo ladrillo laminado
+censo_piso_alfombra_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 3: alfombra
+censo_piso_cemento_gravilla_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 4: cemento gravilla
+censo_piso_madera_burda_vegetal_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 5: madera burda vegetal
+censo_piso_tierra_arena_barro_2018,V_MAT_PISO,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 6: tierra arena barro
+censo_energia_n_elegibles_2018,VA_EE,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_energia_n_validos_2018,VA_EE,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_energia_n_nulos_2018,VA_EE,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_energia_n_otro_codigo_2018,VA_EE,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_energia_si_2018,VA_EE,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 1: si
+censo_energia_no_2018,VA_EE,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 2: no
+censo_estrato_n_elegibles_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Registros elegibles para la pregunta
+censo_estrato_n_validos_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Respuestas válidas
+censo_estrato_n_nulos_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Respuestas faltantes en el universo elegible
+censo_estrato_n_otro_codigo_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Respuestas fuera de las categorías consideradas
+censo_estrato_sin_estrato_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 0: sin estrato
+censo_estrato_1_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 1: 1
+censo_estrato_2_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 2: 2
+censo_estrato_3_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 3: 3
+censo_estrato_4_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 4: 4
+censo_estrato_5_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 5: 5
+censo_estrato_6_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 6: 6
+censo_estrato_no_sabe_2018,VA1_ESTRATO,Viviendas ocupadas con personas presentes y energía,Conteo de respuestas con código 9: no sabe
+censo_acueducto_n_elegibles_2018,VB_ACU,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_acueducto_n_validos_2018,VB_ACU,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_acueducto_n_nulos_2018,VB_ACU,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_acueducto_n_otro_codigo_2018,VB_ACU,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_acueducto_si_2018,VB_ACU,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 1: si
+censo_acueducto_no_2018,VB_ACU,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 2: no
+censo_alcantarillado_n_elegibles_2018,VC_ALC,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_alcantarillado_n_validos_2018,VC_ALC,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_alcantarillado_n_nulos_2018,VC_ALC,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_alcantarillado_n_otro_codigo_2018,VC_ALC,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_alcantarillado_si_2018,VC_ALC,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 1: si
+censo_alcantarillado_no_2018,VC_ALC,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 2: no
+censo_gas_n_elegibles_2018,VD_GAS,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_gas_n_validos_2018,VD_GAS,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_gas_n_nulos_2018,VD_GAS,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_gas_n_otro_codigo_2018,VD_GAS,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_gas_si_2018,VD_GAS,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 1: si
+censo_gas_no_2018,VD_GAS,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 2: no
+censo_gas_no_informa_2018,VD_GAS,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 9: no informa
+censo_basura_n_elegibles_2018,VE_RECBAS,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_basura_n_validos_2018,VE_RECBAS,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_basura_n_nulos_2018,VE_RECBAS,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_basura_n_otro_codigo_2018,VE_RECBAS,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_basura_si_2018,VE_RECBAS,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 1: si
+censo_basura_no_2018,VE_RECBAS,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 2: no
+censo_basura_no_informa_2018,VE_RECBAS,Viviendas residenciales ocupadas con personas presentes,Conteo de respuestas con código 9: no informa
+censo_hogares_n_elegibles_2018,V_TOT_HOG,Viviendas residenciales ocupadas con personas presentes,Registros elegibles para la pregunta
+censo_hogares_n_validos_2018,V_TOT_HOG,Viviendas residenciales ocupadas con personas presentes,Respuestas válidas
+censo_hogares_n_nulos_2018,V_TOT_HOG,Viviendas residenciales ocupadas con personas presentes,Respuestas faltantes en el universo elegible
+censo_hogares_n_otro_codigo_2018,V_TOT_HOG,Viviendas residenciales ocupadas con personas presentes,Respuestas fuera de las categorías consideradas
+censo_hogares_total_reportado_2018,V_TOT_HOG,Viviendas residenciales ocupadas con personas presentes,Suma de cantidades de hogares válidas reportadas; nulo si no hay datos válidos
